@@ -13,7 +13,16 @@
 - import
 - export
 - merge / co-relate
-- Ge
+- generate
+- calculate
+### Nouns
+- TradeData
+- Counter Party
+- TDS
+- RDS
+- Excel
+- Risk r
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTgwODQ5NTEsMTMyNDg2NzQ0Ml19
+eyJoaXN0b3J5IjpbLTQ5NDUxMTE3LDEzMjQ4Njc0NDJdfQ==
 -->
