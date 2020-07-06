@@ -1,6 +1,8 @@
 # Financial Risk Management System
 
-## Functional 
+## Functional Requirements
+
+> - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwNDIwMTJdfQ==
+eyJoaXN0b3J5IjpbLTIxNDY5MjM3ODldfQ==
 -->
