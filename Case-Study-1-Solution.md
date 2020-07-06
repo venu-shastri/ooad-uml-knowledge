@@ -18,11 +18,11 @@
 ### Nouns
 - TradeData
 - Counter Party
-- TDS
-- RDS
-- Excel
-- Risk r
+- TDS (External)
+- RDS (External)
+- Excel (Excel)
+- Risk Report
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDUxMTE3LDEzMjQ4Njc0NDJdfQ==
+eyJoaXN0b3J5IjpbLTEyMjE5ODA5OTUsMTMyNDg2NzQ0Ml19
 -->
