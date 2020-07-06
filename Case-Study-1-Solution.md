@@ -8,6 +8,12 @@
 > - Risk Calculation
 > - Generate Risk Calculation Report
 > - Export Risk Calculation report - Excel Format
+
+### Verbs
+- import
+- export
+- merge / co-relate
+- Ge
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDg2NzQ0Ml19
+eyJoaXN0b3J5IjpbLTE0MTgwODQ5NTEsMTMyNDg2NzQ0Ml19
 -->
