@@ -28,10 +28,21 @@ these use cases.
 ##### External objects that produce/consume data:
 - Must serve as sources and destinations for data
 - Must be external to the system
+![actor](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/actors.JPG)
+
+##### Questions to find actors
+- Who are the system’s primary users?
+Who requires system support for daily tasks?
+
+What hardware does the system handle?
+Which other (if any) systems interact with the system in question?
+Do any entities interacting with the system perform multiple roles as actors?
+Which other entities (human or oth
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTc0MTcyMCwzMTAwMDI1MDRdfQ==
+eyJoaXN0b3J5IjpbNDg2NTc1NzUsMjE0MTc0MTcyMCwzMTAwMD
+I1MDRdfQ==
 -->
