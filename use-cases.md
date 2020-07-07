@@ -112,9 +112,12 @@ parent use case.
 - The base use case explicitly incorporates the behavior of another use case at a location specified in the base.
 - The included use case never stands alone. It only occurs as a part of some larger base that includes it.
 - Enables us to avoid describing the same flow of events several times by putting the common behavior in a use case of its own.
-- 
+- Include relationship – a standard case linked to a mandatory use case.
+- Example: to Authorize Car Loan (standard use case), a clerk must run Check Client’s Credit History (include use case).
+- The standard UC includes the mandatory UC (use the verb to figure direction arrow).
+- Standard use case can NOT execute without the include case **tight coupling** .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDY1MTU4NTAsNzM1ODE3OTQsOTkyNz
-IzMzMzLC0zNzE1MTY4MzksNjc2MjcxODk0LDEyODcwMjE4MjIs
-LTUxMDI4ODc3MSwyMTQxNzQxNzIwLDMxMDAwMjUwNF19
+eyJoaXN0b3J5IjpbLTcwNTg1NTU5MCw3MzU4MTc5NCw5OTI3Mj
+MzMzMsLTM3MTUxNjgzOSw2NzYyNzE4OTQsMTI4NzAyMTgyMiwt
+NTEwMjg4NzcxLDIxNDE3NDE3MjAsMzEwMDAyNTA0XX0=
 -->
