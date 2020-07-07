@@ -16,7 +16,7 @@
 - Actors
 - UseCase
 
-### UseCase
+###  Actor
 >
 
 
@@ -24,5 +24,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTY0MjUxNCwzMTAwMDI1MDRdfQ==
+eyJoaXN0b3J5IjpbLTM1MTU5NjkyNiwzMTAwMDI1MDRdfQ==
 -->
