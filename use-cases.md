@@ -126,8 +126,20 @@ parent use case.
 - The optional UC extends the standard UC
 - Standard use case can execute without the extend case **loose coupling**
 
+![Extend](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/extend.png)
+
+### How to create use case diagram
+- List main system functions (use cases) in a column:
+	- think of business events demanding system’s response
+	- users’ goals/needs to be accomplished via the system
+- Create, Read, Update, Delete (CRUD) data tasks
+- Naming use cases – user’s needs usually can be translated in data tasks
+-  Draw ovals around the function labels
+-  Draw system boundary
+-  Draw actors and connect them with use cases (if more intuitive, this can be done as step 2)
+-  Specify include and extend relationships between use cases (yes, at the end - not before, as this may pull you into process thinking, which does not apply in UC diagramming).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODE3MjUzMyw3MzU4MTc5NCw5OTI3Mj
-MzMzMsLTM3MTUxNjgzOSw2NzYyNzE4OTQsMTI4NzAyMTgyMiwt
-NTEwMjg4NzcxLDIxNDE3NDE3MjAsMzEwMDAyNTA0XX0=
+eyJoaXN0b3J5IjpbNTAwODc2NjI5LDczNTgxNzk0LDk5MjcyMz
+MzMywtMzcxNTE2ODM5LDY3NjI3MTg5NCwxMjg3MDIxODIyLC01
+MTAyODg3NzEsMjE0MTc0MTcyMCwzMTAwMDI1MDRdfQ==
 -->
