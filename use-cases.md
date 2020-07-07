@@ -82,12 +82,13 @@ Diagram reproduced from www.edrawsoft.com.
 - Named by verb.
 - Each Actor must be linked to a use case, while some use cases may not be linked to actors.
 
+### Elements of use case diagram: **Other details**
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Njg1Mjk5Myw2NzYyNzE4OTQsMTI4Nz
+eyJoaXN0b3J5IjpbMTE0MDEyNjA4Miw2NzYyNzE4OTQsMTI4Nz
 AyMTgyMiwtNTEwMjg4NzcxLDIxNDE3NDE3MjAsMzEwMDAyNTA0
 XX0=
 -->
