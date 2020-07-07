@@ -31,14 +31,14 @@ and use cases relate to one another
 - They do not capture the full information of the actual use cases
 - In contrast, **text** is essential
 - Objectives
-- Built in early stages of development
--Purpose
-•Specify the context of a system
-•Capture the requirements of a system
-•Validate a systems architecture
-•Drive implementation and generate test cases
-•Developed by analysts and domain experts
-- 
+	- Built in early stages of development
+	- Purpose
+		- Specify the context of a system
+		- Capture the requirements of a system
+		- Validate a systems architecture
+		- Drive implementation and generate test cases
+		- Developed by analysts and domain experts
+
 
 ## Use Case Building Blocks
 - Subject
@@ -72,6 +72,6 @@ these use cases.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTIyMjIyNDEsMjE0MTc0MTcyMCwzMT
-AwMDI1MDRdfQ==
+eyJoaXN0b3J5IjpbMTQ3NjkyNDg1OSwyMTQxNzQxNzIwLDMxMD
+AwMjUwNF19
 -->
