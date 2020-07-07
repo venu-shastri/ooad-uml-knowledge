@@ -39,8 +39,8 @@ and use cases relate to one another
 		- Drive implementation and generate test cases
 		- Developed by analysts and domain experts
 ### How do use case diagrams fit in?
-
-
+![usecasefit](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/usecase-fit-in.JPG)
+Diagram reproduced from www.edrawsoft.com.
 ## Use Case Building Blocks
 - Subject
 - Actors
@@ -73,6 +73,6 @@ these use cases.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTE2NzczNywyMTQxNzQxNzIwLDMxMD
+eyJoaXN0b3J5IjpbLTU3ODg0NjA3MywyMTQxNzQxNzIwLDMxMD
 AwMjUwNF19
 -->
