@@ -108,8 +108,11 @@ parent use case.
 - The child may add to or override the behavior of its parent.
 ![Generalization](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/Generalization.png)
 
+#### include
+- The base use case explicitly incorporates the behavior of another use case at a location specified in the base.
+- The included use case never stands alone. It only occurs as a part of some larger base that includes it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQ2NTQ4NjAsNzM1ODE3OTQsOTkyNz
-IzMzMzLC0zNzE1MTY4MzksNjc2MjcxODk0LDEyODcwMjE4MjIs
-LTUxMDI4ODc3MSwyMTQxNzQxNzIwLDMxMDAwMjUwNF19
+eyJoaXN0b3J5IjpbMTY5MTU2NzMwNSw3MzU4MTc5NCw5OTI3Mj
+MzMzMsLTM3MTUxNjgzOSw2NzYyNzE4OTQsMTI4NzAyMTgyMiwt
+NTEwMjg4NzcxLDIxNDE3NDE3MjAsMzEwMDAyNTA0XX0=
 -->
