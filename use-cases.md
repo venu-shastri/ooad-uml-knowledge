@@ -38,6 +38,7 @@ and use cases relate to one another
 		- Validate a systems architecture
 		- Drive implementation and generate test cases
 		- Developed by analysts and domain experts
+### How do use case diagrams fit in?
 
 
 ## Use Case Building Blocks
@@ -72,6 +73,6 @@ these use cases.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjkyNDg1OSwyMTQxNzQxNzIwLDMxMD
+eyJoaXN0b3J5IjpbLTMwMTE2NzczNywyMTQxNzQxNzIwLDMxMD
 AwMjUwNF19
 -->
