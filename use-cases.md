@@ -17,12 +17,20 @@
 - UseCase
 
 ###  Actor
->
+- Include all user roles that interact with the system
+- Include system components only if they responsible for initiating/triggering a use case.
+- For example, a timer that triggers sending of an e-mail reminder
+- primary - a user whose goals are fulfilled by the system
+•importance: define user goals
+•supporting - provides a service (e.g., info) to the system
+•importance: clarify external interfaces and protocols
+•offstage - has an interest in the behavior but is not primary or supporting, e.g., government
+•importance: ensure all interests (even subtle) are identified and satisfied
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTU5NjkyNiwzMTAwMDI1MDRdfQ==
+eyJoaXN0b3J5IjpbOTI2Mjc2MzAyLDMxMDAwMjUwNF19
 -->
