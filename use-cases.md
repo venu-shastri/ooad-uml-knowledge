@@ -44,12 +44,12 @@ these use cases.
 	- Who?
 	- Does what?
 	- And why?
-As a <type of user>, I want <some behavior from the system> so that <some value is achieved>
+> As a  **type of user** , I want **some behavior from the system** so that **some value is achieved**
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk5NzgxODUsMjE0MTc0MTcyMCwzMT
-AwMDI1MDRdfQ==
+eyJoaXN0b3J5IjpbMTIyOTMzMzIxOSwyMTQxNzQxNzIwLDMxMD
+AwMjUwNF19
 -->
