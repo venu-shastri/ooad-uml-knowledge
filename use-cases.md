@@ -125,8 +125,9 @@ parent use case.
 - Example: Register Course (standard use case) may have Register for Special Class (extend use case) – class for non-standard students, in unusual time, with special topics, requiring extra fees…).
 - The optional UC extends the standard UC
 - Standard use case can execute without the extend case **loose coupling**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5MDk2MTk5LDczNTgxNzk0LDk5MjcyMz
-MzMywtMzcxNTE2ODM5LDY3NjI3MTg5NCwxMjg3MDIxODIyLC01
-MTAyODg3NzEsMjE0MTc0MTcyMCwzMTAwMDI1MDRdfQ==
+eyJoaXN0b3J5IjpbMjA3ODE3MjUzMyw3MzU4MTc5NCw5OTI3Mj
+MzMzMsLTM3MTUxNjgzOSw2NzYyNzE4OTQsMTI4NzAyMTgyMiwt
+NTEwMjg4NzcxLDIxNDE3NDE3MjAsMzEwMDAyNTA0XX0=
 -->
