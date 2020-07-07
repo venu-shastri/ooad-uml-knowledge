@@ -116,8 +116,13 @@ parent use case.
 - Example: to Authorize Car Loan (standard use case), a clerk must run Check Client’s Credit History (include use case).
 - The standard UC includes the mandatory UC (use the verb to figure direction arrow).
 - Standard use case can NOT execute without the include case **tight coupling** .
+
+#### Extend
+- The base use case implicitly incorporates the behavior of another use case at certain points called extension points.
+- The base use case may stand alone, but under certain conditions its behavior may be extended by the behavior of another use case.
+- Enables to model optional behavior or branching under conditions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTg1NTU5MCw3MzU4MTc5NCw5OTI3Mj
+eyJoaXN0b3J5IjpbMTc1ODc2NTgwNyw3MzU4MTc5NCw5OTI3Mj
 MzMzMsLTM3MTUxNjgzOSw2NzYyNzE4OTQsMTI4NzAyMTgyMiwt
 NTEwMjg4NzcxLDIxNDE3NDE3MjAsMzEwMDAyNTA0XX0=
 -->
