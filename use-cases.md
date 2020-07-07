@@ -111,8 +111,9 @@ parent use case.
 #### include
 - The base use case explicitly incorporates the behavior of another use case at a location specified in the base.
 - The included use case never stands alone. It only occurs as a part of some larger base that includes it.
+- Enables us to avoid describing the same flow of events several times by putting the common behavior in a use case of its own.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTU2NzMwNSw3MzU4MTc5NCw5OTI3Mj
+eyJoaXN0b3J5IjpbLTgyNDA0NDE2NSw3MzU4MTc5NCw5OTI3Mj
 MzMzMsLTM3MTUxNjgzOSw2NzYyNzE4OTQsMTI4NzAyMTgyMiwt
 NTEwMjg4NzcxLDIxNDE3NDE3MjAsMzEwMDAyNTA0XX0=
 -->
