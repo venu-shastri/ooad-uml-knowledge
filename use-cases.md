@@ -8,11 +8,11 @@
 - Is oriented toward satisfying a user's goal
 
 ## How do we describe use cases?
-Textual or tabular descriptions
-User stories
-Diagrams
+- Textual or tabular description
+- User stories
+- Diagrams
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNTU4MzI5NV19
+eyJoaXN0b3J5IjpbMTQ4MTc4NTMwOV19
 -->
