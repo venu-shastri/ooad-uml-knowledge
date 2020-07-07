@@ -11,6 +11,25 @@
 - Textual or tabular description
 - User stories
 - Diagrams
+### What is a user story?
+- An abbreviated description of a use case
+- Used in agile development
+- Answers 3 questions:
+	- Who?
+	- Does what?
+	- And why?
+> As a  **type of user** , I want **some behavior from the system** so that **some value is achieved**
+![User story](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/UseStory.JPG)
+
+
+### Use Case Diagrams
+•A picture
+•describes how actors relate to use cases
+•and use cases relate to one another
+•Diagrams are not essential
+•They are helpful in giving an overview, but only secondary in importance to the textual description
+•They do not capture the full information of the actual use cases
+•In contrast, text is essential
 ## Use Case Building Blocks
 - Subject
 - Actors
@@ -37,20 +56,12 @@ these use cases.
 -  Which other (if any) systems interact with the system in question?
 - Do any entities interacting with the system perform multiple roles as actors?
 - Which other entities (human or otherwise) might have an interest in the system's output?
-### What is a user story?
-- An abbreviated description of a use case
-- Used in agile development
-- Answers 3 questions:
-	- Who?
-	- Does what?
-	- And why?
-> As a  **type of user** , I want **some behavior from the system** so that **some value is achieved**
-![User story](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/UseStory.JPG)
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1Mzc4MDY5OSwyMTQxNzQxNzIwLDMxMD
+eyJoaXN0b3J5IjpbMTkwMDI3NzY0MSwyMTQxNzQxNzIwLDMxMD
 AwMjUwNF19
 -->
