@@ -11,9 +11,15 @@
 - Textual or tabular description
 - User stories
 - Diagrams
-## Use Case B
+## Use Case Building Blocks
+- Subject
+- Actors
+- UseCase
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3Mzk2NjA3MF19
+eyJoaXN0b3J5IjpbMzEwMDAyNTA0XX0=
 -->
