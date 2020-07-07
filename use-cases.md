@@ -84,11 +84,21 @@ Diagram reproduced from www.edrawsoft.com.
 
 ### Elements of use case diagram: **Other details**
 
+![others](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/usecaseotherelements.JPG)
 
+### Linking Use Cases
+Association relationships
+•Generalization relationships
+•One element (child) "is based on" another element (parent)
+•Include relationships
+•One use case (base) includes the functionality of another (inclusion case)
+•Supports re-use of functionality
+•Extend relationships
+•One use case (extension) extends the behavior of another (base)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDEyNjA4Miw2NzYyNzE4OTQsMTI4Nz
+eyJoaXN0b3J5IjpbLTYzNjE5MTQ4NSw2NzYyNzE4OTQsMTI4Nz
 AyMTgyMiwtNTEwMjg4NzcxLDIxNDE3NDE3MjAsMzEwMDAyNTA0
 XX0=
 -->
