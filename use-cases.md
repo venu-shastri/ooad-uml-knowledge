@@ -43,7 +43,9 @@ and use cases relate to one another
 
 Diagram reproduced from www.edrawsoft.com.
 
-## Use Case Building Blocks
+![UsecaseDiagram](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/UseCaseDiagram.JPG)
+
+## Elements Of UseCase Diagram
 - Subject
 - Actors
 - UseCase
@@ -76,6 +78,6 @@ these use cases.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDI4ODc3MSwyMTQxNzQxNzIwLDMxMD
-AwMjUwNF19
+eyJoaXN0b3J5IjpbLTEwNzczOTM3NzIsLTUxMDI4ODc3MSwyMT
+QxNzQxNzIwLDMxMDAwMjUwNF19
 -->
