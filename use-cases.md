@@ -25,11 +25,13 @@ of use case play when interacting with
 these use cases.
 - Actors can be human or automated systems.
 #### Finding Actors
-
+##### External objects that produce/consume data:
+- Must serve as sources and destinations for data
+- Must be external to the system
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcxMzI0MTY5LDMxMDAwMjUwNF19
+eyJoaXN0b3J5IjpbMjE0MTc0MTcyMCwzMTAwMDI1MDRdfQ==
 -->
