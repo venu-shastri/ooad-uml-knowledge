@@ -106,9 +106,10 @@ Diagram reproduced from www.edrawsoft.com.
 - The child use case inherits the behavior and meaning of the
 parent use case.
 - The child may add to or override the behavior of its parent.
+![Generalization](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/Generalization.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1ODE3OTQsOTkyNzIzMzMzLC0zNzE1MT
-Y4MzksNjc2MjcxODk0LDEyODcwMjE4MjIsLTUxMDI4ODc3MSwy
-MTQxNzQxNzIwLDMxMDAwMjUwNF19
+eyJoaXN0b3J5IjpbLTIwOTQ2NTQ4NjAsNzM1ODE3OTQsOTkyNz
+IzMzMzLC0zNzE1MTY4MzksNjc2MjcxODk0LDEyODcwMjE4MjIs
+LTUxMDI4ODc3MSwyMTQxNzQxNzIwLDMxMDAwMjUwNF19
 -->
