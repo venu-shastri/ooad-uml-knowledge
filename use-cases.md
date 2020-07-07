@@ -96,9 +96,13 @@ Diagram reproduced from www.edrawsoft.com.
 - **Extend** relationships
 	- One use case (extension) extends the behavior of another (base)
 
+#### Association
+>Relationships between Use Cases and Actors
+>Actors may be connected to use cases by associations, indicating that the actor and the use case communicate with one another using messages.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTUxNjgzOSw2NzYyNzE4OTQsMTI4Nz
-AyMTgyMiwtNTEwMjg4NzcxLDIxNDE3NDE3MjAsMzEwMDAyNTA0
-XX0=
+eyJoaXN0b3J5IjpbLTE1MDYzODAxMTEsLTM3MTUxNjgzOSw2Nz
+YyNzE4OTQsMTI4NzAyMTgyMiwtNTEwMjg4NzcxLDIxNDE3NDE3
+MjAsMzEwMDAyNTA0XX0=
 -->
