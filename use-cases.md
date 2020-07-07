@@ -11,8 +11,9 @@
 - Textual or tabular description
 - User stories
 - Diagrams
+## Use Case B
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTc4NTMwOV19
+eyJoaXN0b3J5IjpbMTc3Mzk2NjA3MF19
 -->
