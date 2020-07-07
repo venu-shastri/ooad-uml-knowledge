@@ -121,8 +121,12 @@ parent use case.
 - The base use case implicitly incorporates the behavior of another use case at certain points called extension points.
 - The base use case may stand alone, but under certain conditions its behavior may be extended by the behavior of another use case.
 - Enables to model optional behavior or branching under conditions
+- **Extend** relationship – linking an optional use case to a standard use case.
+- Example: Register Course (standard use case) may have Register for Special Class (extend use case) – class for non-standard students, in unusual time, with special topics, requiring extra fees…).
+- The optional UC extends the standard UC
+- Standard use case can execute without the extend case **loose coupling**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODc2NTgwNyw3MzU4MTc5NCw5OTI3Mj
-MzMzMsLTM3MTUxNjgzOSw2NzYyNzE4OTQsMTI4NzAyMTgyMiwt
-NTEwMjg4NzcxLDIxNDE3NDE3MjAsMzEwMDAyNTA0XX0=
+eyJoaXN0b3J5IjpbNDI5MDk2MTk5LDczNTgxNzk0LDk5MjcyMz
+MzMywtMzcxNTE2ODM5LDY3NjI3MTg5NCwxMjg3MDIxODIyLC01
+MTAyODg3NzEsMjE0MTc0MTcyMCwzMTAwMDI1MDRdfQ==
 -->
