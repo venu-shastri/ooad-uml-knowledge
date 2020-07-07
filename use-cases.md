@@ -53,12 +53,13 @@ Diagram reproduced from www.edrawsoft.com.
 ###  Actor
 
 ![Actor](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/Actor.JPG)
+-Actor is someone interacting with use case (system function). Named by noun.
+- Similar to the concept of user, but a user can play different roles; (example: a prof. can be instructor and researcher – plays 2 roles with two systems).
+-  Actor triggers use case.
+- Actor has responsibility toward the system (inputs), and Actor have expectations from the system (outputs) 
 - Include all user roles that interact with the system
 - Include system components only if they responsible for initiating/triggering a use case.
-	- For example, a timer that triggers sending of an e-mail reminder
-- An actor represents a set of roles that users
-of use case play when interacting with
-these use cases.
+	- For example, a timer that triggers sending of an e-mail reminder.
 - Actors can be human or automated systems.
 #### Finding Actors
 ##### External objects that produce/consume data:
@@ -80,6 +81,6 @@ these use cases.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzAyMTgyMiwtNTEwMjg4NzcxLDIxND
-E3NDE3MjAsMzEwMDAyNTA0XX0=
+eyJoaXN0b3J5IjpbNjc2MjcxODk0LDEyODcwMjE4MjIsLTUxMD
+I4ODc3MSwyMTQxNzQxNzIwLDMxMDAwMjUwNF19
 -->
