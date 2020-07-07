@@ -36,13 +36,13 @@
 ### UseCases
  - import RDS Data
  - import TDS Data
-- export 
-- merge / co-relate
-- generate
-- calculate
-- configure 
+- export ExcelRiskreport
+- merge / co-relate RiskInput data
+- generate RiskReport
+- calculate Risk
+- configure RiskCalculation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDY0NjQxMywxNTI5OTM2NzAzLDc2MD
-AwMDY5NiwxODUwODYyNjg5LC0xMjIxOTgwOTk1LDEzMjQ4Njc0
-NDJdfQ==
+eyJoaXN0b3J5IjpbOTU2NTA4MDA2LDE1Mjk5MzY3MDMsNzYwMD
+AwNjk2LDE4NTA4NjI2ODksLTEyMjE5ODA5OTUsMTMyNDg2NzQ0
+Ml19
 -->
