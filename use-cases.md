@@ -38,11 +38,18 @@ these use cases.
 - Do any entities interacting with the system perform multiple roles as actors?
 - Which other entities (human or otherwise) might have an interest in the system's output?
 ### What is a user story?
+- An abbreviated description of a use case
+- Used in agile development
+- Answers 3 questions:
+	- Who?
+	- Does what?
+	- And why?
+As a <type of user>, I want <some behavior from the system> so that <some value is achieved>
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjE5NTI2MiwyMTQxNzQxNzIwLDMxMD
-AwMjUwNF19
+eyJoaXN0b3J5IjpbLTEyNzk5NzgxODUsMjE0MTc0MTcyMCwzMT
+AwMDI1MDRdfQ==
 -->
