@@ -76,11 +76,18 @@ Diagram reproduced from www.edrawsoft.com.
 - Do any entities interacting with the system perform multiple roles as actors?
 - Which other entities (human or otherwise) might have an interest in the system's output?
 
+### Use Case
+![usecase](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/usecase.JPG)
+- System function (process – automated or manual).
+- Named by verb.
+- Each Actor must be linked to a use case, while some use cases may not be linked to actors.
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2MjcxODk0LDEyODcwMjE4MjIsLTUxMD
-I4ODc3MSwyMTQxNzQxNzIwLDMxMDAwMjUwNF19
+eyJoaXN0b3J5IjpbMTM2Njg1Mjk5Myw2NzYyNzE4OTQsMTI4Nz
+AyMTgyMiwtNTEwMjg4NzcxLDIxNDE3NDE3MjAsMzEwMDAyNTA0
+XX0=
 -->
