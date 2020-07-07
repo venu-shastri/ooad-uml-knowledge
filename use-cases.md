@@ -51,6 +51,8 @@ Diagram reproduced from www.edrawsoft.com.
 - UseCase
 
 ###  Actor
+
+![Actor](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/Actor.JPG)
 - Include all user roles that interact with the system
 - Include system components only if they responsible for initiating/triggering a use case.
 	- For example, a timer that triggers sending of an e-mail reminder
@@ -78,6 +80,6 @@ these use cases.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzczOTM3NzIsLTUxMDI4ODc3MSwyMT
-QxNzQxNzIwLDMxMDAwMjUwNF19
+eyJoaXN0b3J5IjpbMTI4NzAyMTgyMiwtNTEwMjg4NzcxLDIxND
+E3NDE3MjAsMzEwMDAyNTA0XX0=
 -->
