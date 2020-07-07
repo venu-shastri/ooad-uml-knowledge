@@ -8,6 +8,7 @@
 > - Risk Calculation
 > - Generate Risk Calculation Report
 > - Export Risk Calculation report - Excel Format
+> Configure Risk Calculation  - Risk Parameter
 
 ### Verbs
 - import
@@ -15,6 +16,7 @@
 - merge / co-relate
 - generate
 - calculate
+- -Configure 
 ### Nouns
 - TradeData
 - Counter Party
@@ -22,7 +24,9 @@
 - RDS (External)
 - Excel (Excel)
 - Risk Report
+- Risk Parameter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjE5ODA5OTUsMTMyNDg2NzQ0Ml19
+eyJoaXN0b3J5IjpbMTg1MDg2MjY4OSwtMTIyMTk4MDk5NSwxMz
+I0ODY3NDQyXX0=
 -->
