@@ -40,7 +40,9 @@ and use cases relate to one another
 		- Developed by analysts and domain experts
 ### How do use case diagrams fit in?
 ![usecasefit](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/usecase-fit-in.JPG)
+
 Diagram reproduced from www.edrawsoft.com.
+
 ## Use Case Building Blocks
 - Subject
 - Actors
@@ -58,6 +60,7 @@ these use cases.
 ##### External objects that produce/consume data:
 - Must serve as sources and destinations for data
 - Must be external to the system
+
 ![actor](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/actors.JPG)
 
 ##### Questions to find actors
@@ -73,6 +76,6 @@ these use cases.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODg0NjA3MywyMTQxNzQxNzIwLDMxMD
+eyJoaXN0b3J5IjpbLTUxMDI4ODc3MSwyMTQxNzQxNzIwLDMxMD
 AwMjUwNF19
 -->
