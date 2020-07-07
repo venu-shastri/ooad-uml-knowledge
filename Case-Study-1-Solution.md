@@ -16,7 +16,7 @@
 - merge / co-relate
 - generate
 - calculate
-- -Configure 
+- configure 
 ### Nouns
 - TradeData
 - Counter Party
@@ -32,8 +32,17 @@
 - RDS System
 - Excel Engine
 - Scheduler System
-- 
+
+### UseCases
+ - import RDS Data
+ - import TDS Data
+- export 
+- merge / co-relate
+- generate
+- calculate
+- configure 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTkzNjcwMyw3NjAwMDA2OTYsMTg1MD
-g2MjY4OSwtMTIyMTk4MDk5NSwxMzI0ODY3NDQyXX0=
+eyJoaXN0b3J5IjpbLTE5NDY0NjQxMywxNTI5OTM2NzAzLDc2MD
+AwMDY5NiwxODUwODYyNjg5LC0xMjIxOTgwOTk1LDEzMjQ4Njc0
+NDJdfQ==
 -->
