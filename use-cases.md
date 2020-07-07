@@ -99,11 +99,16 @@ Diagram reproduced from www.edrawsoft.com.
 #### Association
 >Relationships between Use Cases and Actors
 >Actors may be connected to use cases by associations, indicating that the actor and the use case communicate with one another using messages.
-![Association](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/Association.JPG)
 
+![Association](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/Association.png)
+
+#### Generalization
+- The child use case inherits the behavior and meaning of the
+parent use case.
+- The child may add to or override the behavior of its parent.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyNzIzMzMzLC0zNzE1MTY4MzksNjc2Mj
-cxODk0LDEyODcwMjE4MjIsLTUxMDI4ODc3MSwyMTQxNzQxNzIw
-LDMxMDAwMjUwNF19
+eyJoaXN0b3J5IjpbNzM1ODE3OTQsOTkyNzIzMzMzLC0zNzE1MT
+Y4MzksNjc2MjcxODk0LDEyODcwMjE4MjIsLTUxMDI4ODc3MSwy
+MTQxNzQxNzIwLDMxMDAwMjUwNF19
 -->
