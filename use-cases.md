@@ -32,17 +32,17 @@ these use cases.
 
 ##### Questions to find actors
 - Who are the system’s primary users?
-Who requires system support for daily tasks?
-
-What hardware does the system handle?
-Which other (if any) systems interact with the system in question?
-Do any entities interacting with the system perform multiple roles as actors?
-Which other entities (human or oth
+- Who requires system support for daily tasks?
+- What hardware does the system handle?
+-  Which other (if any) systems interact with the system in question?
+- Do any entities interacting with the system perform multiple roles as actors?
+- Which other entities (human or otherwise) might have an interest in the system's output?
+### What is a user story?
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2NTc1NzUsMjE0MTc0MTcyMCwzMTAwMD
-I1MDRdfQ==
+eyJoaXN0b3J5IjpbMTI5NjE5NTI2MiwyMTQxNzQxNzIwLDMxMD
+AwMjUwNF19
 -->
