@@ -19,21 +19,17 @@
 ###  Actor
 - Include all user roles that interact with the system
 - Include system components only if they responsible for initiating/triggering a use case.
-- For example, a timer that triggers sending of an e-mail reminder
+	- For example, a timer that triggers sending of an e-mail reminder
 - An actor represents a set of roles that users
 of use case play when interacting with
 these use cases.
- Actors can be human or automatedname
-5
-systems.
- Actors are entities which require help from
-the system to perform their task or are
-needed to execute the system’s functions.
- Actors are not part of the system
+- Actors can be human or automated systems.
+#### Finding Actors
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDUwNDI3NCwzMTAwMDI1MDRdfQ==
+eyJoaXN0b3J5IjpbODcxMzI0MTY5LDMxMDAwMjUwNF19
 -->
