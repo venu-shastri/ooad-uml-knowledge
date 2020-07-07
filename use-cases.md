@@ -20,17 +20,20 @@
 - Include all user roles that interact with the system
 - Include system components only if they responsible for initiating/triggering a use case.
 - For example, a timer that triggers sending of an e-mail reminder
-- primary - a user whose goals are fulfilled by the system
-•importance: define user goals
-•supporting - provides a service (e.g., info) to the system
-•importance: clarify external interfaces and protocols
-•offstage - has an interest in the behavior but is not primary or supporting, e.g., government
-•importance: ensure all interests (even subtle) are identified and satisfied
-
+- An actor represents a set of roles that users
+of use case play when interacting with
+these use cases.
+ Actors can be human or automatedname
+5
+systems.
+ Actors are entities which require help from
+the system to perform their task or are
+needed to execute the system’s functions.
+ Actors are not part of the system
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2Mjc2MzAyLDMxMDAwMjUwNF19
+eyJoaXN0b3J5IjpbLTk4MDUwNDI3NCwzMTAwMDI1MDRdfQ==
 -->
