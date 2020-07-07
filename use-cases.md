@@ -45,11 +45,12 @@ these use cases.
 	- Does what?
 	- And why?
 > As a  **type of user** , I want **some behavior from the system** so that **some value is achieved**
+![User story](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/UseStory.JPG)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTMzMzIxOSwyMTQxNzQxNzIwLDMxMD
+eyJoaXN0b3J5IjpbMTU1Mzc4MDY5OSwyMTQxNzQxNzIwLDMxMD
 AwMjUwNF19
 -->
