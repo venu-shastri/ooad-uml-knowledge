@@ -32,7 +32,10 @@
 - A Contract
 	- an agreement outlining the terms of a collaboration
 
+### Object design
+![Object Machinary](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Object_machinary.JPG)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTY1NjY3NCwtMjA1NzMwOTMyN119
+eyJoaXN0b3J5IjpbODkxMDQ1ODc2LC0yMDU3MzA5MzI3XX0=
 -->
