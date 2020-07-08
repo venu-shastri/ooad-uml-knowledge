@@ -59,6 +59,16 @@ Trygve  Reenskaug
 - Controller—makes decisions and closely directs others' actions
 
 - Interfacer—transforms information and requests between distinct parts of our system
+#### Responsibilities?
+>Object Responsibilities include three major items:
+
+- The actions an object performs
+
+- The knowledge an object maintains
+
+- Major decisions an object makes that affect others
+
+>Do not try to design objects to have all the conceivable behavior shown in the real world. Rather, make software objects only as smart as the application needs them to be and no smarter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzQ0NTQ5MywtMjA1NzMwOTMyN119
+eyJoaXN0b3J5IjpbMTA3MTYxMzI5MywtMjA1NzMwOTMyN119
 -->
