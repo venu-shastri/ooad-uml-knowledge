@@ -4,6 +4,25 @@
 >Or, it can be horizontally divided into a layered architecture distributing responsibilities among these layers (i.e., presentation layers, services layers, business logic layers, and data access layers).
 
 >- Representation of structural elements as classes or objects and their relationships.
+
+## Design Concepts
+Object
+
+Roles
+
+Responsibilities and Collaborations
+
+Relationships
+
+¡Architecture
+
+¡Principles
+
+¡Patterns
+
+¡Framework
+
+¡Components
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTM1MTQ2XX0=
+eyJoaXN0b3J5IjpbNDQ1ODUwOTc3XX0=
 -->
