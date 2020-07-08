@@ -7,6 +7,8 @@
 
 ### Logical View and UML
 
+![enter image description here](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Logical-View.JPG)
+
 ## Design Concepts
 - Object
 
@@ -72,6 +74,6 @@ Trygve  Reenskaug
 
 >Do not try to design objects to have all the conceivable behavior shown in the real world. Rather, make software objects only as smart as the application needs them to be and no smarter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Nzg3MjYwMywxMDcxNjEzMjkzLC0yMD
-U3MzA5MzI3XX0=
+eyJoaXN0b3J5IjpbLTE0ODM4NDM3ODIsLTU1Nzg3MjYwMywxMD
+cxNjEzMjkzLC0yMDU3MzA5MzI3XX0=
 -->
