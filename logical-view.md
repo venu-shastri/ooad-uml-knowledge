@@ -6,23 +6,19 @@
 >- Representation of structural elements as classes or objects and their relationships.
 
 ## Design Concepts
-Object
+- Object
 
-Roles
+- Roles
 
-Responsibilities and Collaborations
+- Responsibilities and Collaborations
 
-Relationships
+- Relationships
 
-¡Architecture
+- Principles
 
-¡Principles
+- Patterns
 
-¡Patterns
 
-¡Framework
-
-¡Components
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1ODUwOTc3XX0=
+eyJoaXN0b3J5IjpbLTIwNTczMDkzMjddfQ==
 -->
