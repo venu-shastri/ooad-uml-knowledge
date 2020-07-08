@@ -19,10 +19,20 @@
 - Patterns
 
 ### Designing  the application using several complementary perspectives
-
+- An Application
+	- Set of interacting Objects
+- An Obejct
+	- An Implementation of One or More Roles
+- A Role
+	- A Set of Related Responsibilities
+- A Responsibility
+	-  an obligation to perform a task or know information
+- A Collaboration
+	- an interaction of objects or roles (or both)
+- A Contract
+	- an agreement outlining the terms of a collaboration
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQxNjgzNjYsLTIwNTczMDkzMjddfQ
-==
+eyJoaXN0b3J5IjpbMjEzMTY1NjY3NCwtMjA1NzMwOTMyN119
 -->
