@@ -51,10 +51,10 @@
 - SRP Principle
 ### Candidate Object List 
 
--  
+- XMLTradeDataImporter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDg4NTM4OSwzNDg0MjM0ODAsMTUyOT
-kzNjcwMyw3NjAwMDA2OTYsMTg1MDg2MjY4OSwtMTIyMTk4MDk5
-NSwxMzI0ODY3NDQyXX0=
+eyJoaXN0b3J5IjpbNDM2NzM3NDk4LDM0ODQyMzQ4MCwxNTI5OT
+M2NzAzLDc2MDAwMDY5NiwxODUwODYyNjg5LC0xMjIxOTgwOTk1
+LDEzMjQ4Njc0NDJdfQ==
 -->
