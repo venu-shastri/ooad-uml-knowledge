@@ -35,7 +35,18 @@
 ### Object design
 ![Object Machinary](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Object_machinary.JPG)
 
+We separate an object's design into Four parts
 
+- Data Define its Public Interface
+
+- The terms and Conditions of  Use
+
+- The Private Details – how it conduct its bussiness
+
+
+
+>"The object has three properties, which makes it a simple, yet powerful model building block. It has state so it can model memory. It has behavior, so that it can model dynamic processes. And it is encapsulated, so that it can hide complexity."
+Trygve  Reenskaug
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxMDQ1ODc2LC0yMDU3MzA5MzI3XX0=
+eyJoaXN0b3J5IjpbMjAzMjY0NjcyMCwtMjA1NzMwOTMyN119
 -->
