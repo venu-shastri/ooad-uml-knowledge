@@ -43,8 +43,15 @@
 - configure RiskCalculation
 ### Subject /  Boundray (module,subsystem,BusinessContext)
 - Financial Risk Management System
+
+### Object Oriented Decomposition
+
+#### Encapsulation
+- Define Role and Assign Responsibilities
+- SRP Principle
+###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4NDIzNDgwLDE1Mjk5MzY3MDMsNzYwMD
-AwNjk2LDE4NTA4NjI2ODksLTEyMjE5ODA5OTUsMTMyNDg2NzQ0
-Ml19
+eyJoaXN0b3J5IjpbMTcwNjk0NTM4NiwzNDg0MjM0ODAsMTUyOT
+kzNjcwMyw3NjAwMDA2OTYsMTg1MDg2MjY4OSwtMTIyMTk4MDk5
+NSwxMzI0ODY3NDQyXX0=
 -->
