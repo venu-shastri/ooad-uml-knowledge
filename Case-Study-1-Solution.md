@@ -63,11 +63,11 @@
 - RiskInputDataMerger
 - RiskMergedDataModel
 - ExcelReportExporter
-- FinancialRiskMgmtControlller/Processor
+- FinancialRiskMgmtControlller
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzgzMTEzOCwtMTc3Mjg3NjE0MiwtMj
-EwMTM1ODM2NCw2MDgyNzE1MjMsMTI2OTU1ODc5MywzNDg0MjM0
-ODAsMTUyOTkzNjcwMyw3NjAwMDA2OTYsMTg1MDg2MjY4OSwtMT
-IyMTk4MDk5NSwxMzI0ODY3NDQyXX0=
+eyJoaXN0b3J5IjpbNzAxMTg2MjczLC0xNzcyODc2MTQyLC0yMT
+AxMzU4MzY0LDYwODI3MTUyMywxMjY5NTU4NzkzLDM0ODQyMzQ4
+MCwxNTI5OTM2NzAzLDc2MDAwMDY5NiwxODUwODYyNjg5LC0xMj
+IxOTgwOTk1LDEzMjQ4Njc0NDJdfQ==
 -->
