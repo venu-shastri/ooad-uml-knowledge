@@ -60,11 +60,13 @@
 - RiskReportGenerator
 - RiskResultModel
 - RiskResultReportModel
+- RiskInputDataMerger
+- RiskInuptDataMo
 - 
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjQ4NjkyNSwtMjEwMTM1ODM2NCw2MD
+eyJoaXN0b3J5IjpbLTI3NjEyNzMwMSwtMjEwMTM1ODM2NCw2MD
 gyNzE1MjMsMTI2OTU1ODc5MywzNDg0MjM0ODAsMTUyOTkzNjcw
 Myw3NjAwMDA2OTYsMTg1MDg2MjY4OSwtMTIyMTk4MDk5NSwxMz
 I0ODY3NDQyXX0=
