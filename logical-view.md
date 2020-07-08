@@ -5,6 +5,8 @@
 
 >- Representation of structural elements as classes or objects and their relationships.
 
+### Logical View and UML
+
 ## Design Concepts
 - Object
 
@@ -70,5 +72,6 @@ Trygve  Reenskaug
 
 >Do not try to design objects to have all the conceivable behavior shown in the real world. Rather, make software objects only as smart as the application needs them to be and no smarter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTYxMzI5MywtMjA1NzMwOTMyN119
+eyJoaXN0b3J5IjpbLTU1Nzg3MjYwMywxMDcxNjEzMjkzLC0yMD
+U3MzA5MzI3XX0=
 -->
