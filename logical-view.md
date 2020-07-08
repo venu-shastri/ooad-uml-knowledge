@@ -46,7 +46,19 @@
 
 >"The object has three properties, which makes it a simple, yet powerful model building block. It has state so it can model memory. It has behavior, so that it can model dynamic processes. And it is encapsulated, so that it can hide complexity."
 Trygve  Reenskaug
+
+#### Object Role Stereotypes
+- information holder—knows and provides information
+
+- Structurer—maintains relationships between objects and information about those relationships
+
+- Service provider—performs work and, in general, offers computing services
+
+- Coordinator—reacts to events by delegating tasks to others
+
+- Controller—makes decisions and closely directs others' actions
+
+- Interfacer—transforms information and requests between distinct parts of our system
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc2NDUxNDksLTIwNTczMDkzMjddfQ
-==
+eyJoaXN0b3J5IjpbMTg2NzQ0NTQ5MywtMjA1NzMwOTMyN119
 -->
