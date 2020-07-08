@@ -50,10 +50,11 @@
 - Define Role and Assign Responsibilities
 - SRP Principle
 ### Candidate Object List 
-- 
+
+-  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjI2NjAzNjMsMzQ4NDIzNDgwLDE1Mj
-k5MzY3MDMsNzYwMDAwNjk2LDE4NTA4NjI2ODksLTEyMjE5ODA5
-OTUsMTMyNDg2NzQ0Ml19
+eyJoaXN0b3J5IjpbMTA2MDg4NTM4OSwzNDg0MjM0ODAsMTUyOT
+kzNjcwMyw3NjAwMDA2OTYsMTg1MDg2MjY4OSwtMTIyMTk4MDk5
+NSwxMzI0ODY3NDQyXX0=
 -->
