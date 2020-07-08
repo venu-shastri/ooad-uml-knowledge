@@ -18,7 +18,11 @@
 
 - Patterns
 
+### Designing  the application using several complementary perspectives
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTczMDkzMjddfQ==
+eyJoaXN0b3J5IjpbLTE2ODQxNjgzNjYsLTIwNTczMDkzMjddfQ
+==
 -->
