@@ -80,21 +80,18 @@
 | Class Reuse | Object Reuse |
 |--|--|
 |  Static Relationship -Compiletime relationship| Dynamic Relationship |
-|Complete Code reuse|--|
-|Inheritance - A kind of relationship allows us to reuse complete code from another role @compiletime
-- Complete Code reuse
-- Commonality and Variation (family of classes)
-- Generalization and specialization
-- Hierarchy  |
+|Complete Code reuse|Test|
+|Inheritance - A kind of relationship allows us to reuse complete code from another role @compiletime - Complete Code reuse,  Commonality and Variation (family of classes), Generalization and specialization ,  Hierarchy 
+|NewTest 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxMDUzODM1LDMyMzU1NjQxNyw3OTA2MD
-E0NCw5Mjc5MzM1ODYsMzg2NTQxNTM4LDE0NjU2MjQzMTAsNTUw
-OTkwNjYxLDcwMTE4NjI3MywtMTc3Mjg3NjE0MiwtMjEwMTM1OD
-M2NCw2MDgyNzE1MjMsMTI2OTU1ODc5MywzNDg0MjM0ODAsMTUy
-OTkzNjcwMyw3NjAwMDA2OTYsMTg1MDg2MjY4OSwtMTIyMTk4MD
-k5NSwxMzI0ODY3NDQyXX0=
+eyJoaXN0b3J5IjpbLTM5NDI2OTg5NCwzMjM1NTY0MTcsNzkwNj
+AxNDQsOTI3OTMzNTg2LDM4NjU0MTUzOCwxNDY1NjI0MzEwLDU1
+MDk5MDY2MSw3MDExODYyNzMsLTE3NzI4NzYxNDIsLTIxMDEzNT
+gzNjQsNjA4MjcxNTIzLDEyNjk1NTg3OTMsMzQ4NDIzNDgwLDE1
+Mjk5MzY3MDMsNzYwMDAwNjk2LDE4NTA4NjI2ODksLTEyMjE5OD
+A5OTUsMTMyNDg2NzQ0Ml19
 -->
