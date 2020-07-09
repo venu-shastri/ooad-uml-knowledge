@@ -83,7 +83,7 @@
 |Complete Code reuse|Test|
 |Inheritance - A kind of relationship allows us to reuse complete code from another role @compiletime - Complete Code reuse,  Commonality and Variation (family of classes), Generalization and specialization ,  Hierarchy (Single,Multiple,Multilevel,Hybrid) | NewTest 
 |Additive, Child Interface should remain semantically same | test
-|Limitations: Static Relationship, Ripple Effect
+|Issues: Static Relationship, Ripple Effect , Diamond Problem
 
 
 
@@ -91,10 +91,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0MDkwODM0LDE3NTU1ODU1MzQsMzIzNT
-U2NDE3LDc5MDYwMTQ0LDkyNzkzMzU4NiwzODY1NDE1MzgsMTQ2
-NTYyNDMxMCw1NTA5OTA2NjEsNzAxMTg2MjczLC0xNzcyODc2MT
-QyLC0yMTAxMzU4MzY0LDYwODI3MTUyMywxMjY5NTU4NzkzLDM0
-ODQyMzQ4MCwxNTI5OTM2NzAzLDc2MDAwMDY5NiwxODUwODYyNj
-g5LC0xMjIxOTgwOTk1LDEzMjQ4Njc0NDJdfQ==
+eyJoaXN0b3J5IjpbMTMzOTg2MjUzNCw4NjQwOTA4MzQsMTc1NT
+U4NTUzNCwzMjM1NTY0MTcsNzkwNjAxNDQsOTI3OTMzNTg2LDM4
+NjU0MTUzOCwxNDY1NjI0MzEwLDU1MDk5MDY2MSw3MDExODYyNz
+MsLTE3NzI4NzYxNDIsLTIxMDEzNTgzNjQsNjA4MjcxNTIzLDEy
+Njk1NTg3OTMsMzQ4NDIzNDgwLDE1Mjk5MzY3MDMsNzYwMDAwNj
+k2LDE4NTA4NjI2ODksLTEyMjE5ODA5OTUsMTMyNDg2NzQ0Ml19
+
 -->
