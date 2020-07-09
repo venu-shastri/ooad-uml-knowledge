@@ -46,9 +46,13 @@
 
 ### Object Oriented Decomposition
 
+## Hierarchy Of OOPs Concepts
 #### Encapsulation
+
 - Define Role and Assign Responsibilities
 - SRP Principle
+- UML Diagram - Class Diagram
+
 ### Candidate Object List 
 
 - XMLTradeDataReader
@@ -65,9 +69,10 @@
 - ExcelReportExporter
 - FinancialRiskMgmtControlller
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxMTg2MjczLC0xNzcyODc2MTQyLC0yMT
-AxMzU4MzY0LDYwODI3MTUyMywxMjY5NTU4NzkzLDM0ODQyMzQ4
-MCwxNTI5OTM2NzAzLDc2MDAwMDY5NiwxODUwODYyNjg5LC0xMj
-IxOTgwOTk1LDEzMjQ4Njc0NDJdfQ==
+eyJoaXN0b3J5IjpbLTY4NTYzOTcyMyw3MDExODYyNzMsLTE3Nz
+I4NzYxNDIsLTIxMDEzNTgzNjQsNjA4MjcxNTIzLDEyNjk1NTg3
+OTMsMzQ4NDIzNDgwLDE1Mjk5MzY3MDMsNzYwMDAwNjk2LDE4NT
+A4NjI2ODksLTEyMjE5ODA5OTUsMTMyNDg2NzQ0Ml19
 -->
