@@ -82,9 +82,9 @@
 |--|--|
 |  Static Relationship -Compiletime relationship, Birth(Parent-Child Relationship| Dynamic Relationship |
 |Complete Code reuse| Selective Reuse(Contract Based)|
-|Inheritance - A kind of relationship allows us to reuse complete code from another role @compiletime - Complete Code reuse,  Commonality and Variation (family of classes), Generalization and specialization ,  Hierarchy (Single,Multiple,Multilevel,Hybrid) | Uses Relationship : One role uses Another Role (Association,Composition,Aggregation) - Dynamic relation
+|Inheritance - A kind of relationship allows us to reuse complete code from another role @compiletime - Complete Code reuse,  Commonality and Variation (family of classes), Generalization and specialization ,  Hierarchy (Single,Multiple,Multilevel,Hybrid) | Uses Relationship : One role uses Another Role (Association,Composition,Aggregation) - Dynamic relationship,No Ripple Effect ,Lazy Instantiation , dynamic Change in Cardinality ,Two way Reuse
 |Additive, Child Interface should remain semantically same | test
-|Issues: Static Relationship, Ripple Effect , Diamond Problem
+|Issues: Static Relationship, Ripple Effect , Diamond Problem , One Way Reuse
 
 
 
@@ -92,10 +92,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDgwMDI4Miw0NDQzMzMzOSwxMzM5OD
-YyNTM0LDg2NDA5MDgzNCwxNzU1NTg1NTM0LDMyMzU1NjQxNyw3
-OTA2MDE0NCw5Mjc5MzM1ODYsMzg2NTQxNTM4LDE0NjU2MjQzMT
-AsNTUwOTkwNjYxLDcwMTE4NjI3MywtMTc3Mjg3NjE0MiwtMjEw
-MTM1ODM2NCw2MDgyNzE1MjMsMTI2OTU1ODc5MywzNDg0MjM0OD
-AsMTUyOTkzNjcwMyw3NjAwMDA2OTYsMTg1MDg2MjY4OV19
+eyJoaXN0b3J5IjpbNDU5NzU4NjA3LDQ0NDMzMzM5LDEzMzk4Nj
+I1MzQsODY0MDkwODM0LDE3NTU1ODU1MzQsMzIzNTU2NDE3LDc5
+MDYwMTQ0LDkyNzkzMzU4NiwzODY1NDE1MzgsMTQ2NTYyNDMxMC
+w1NTA5OTA2NjEsNzAxMTg2MjczLC0xNzcyODc2MTQyLC0yMTAx
+MzU4MzY0LDYwODI3MTUyMywxMjY5NTU4NzkzLDM0ODQyMzQ4MC
+wxNTI5OTM2NzAzLDc2MDAwMDY5NiwxODUwODYyNjg5XX0=
 -->
