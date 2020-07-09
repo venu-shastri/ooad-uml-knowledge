@@ -53,7 +53,7 @@
 - SRP Principle
 	- Class should not change for more than one Reason
 	- High Cohesion 
-	- interdependency b/w class members must
+		- inter dependency b/w class members must be tightly coupled
 - UML Diagram - Class Diagram
 
 ### Candidate Object List 
@@ -74,8 +74,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjA0ODg5Nyw3MDExODYyNzMsLTE3Nz
-I4NzYxNDIsLTIxMDEzNTgzNjQsNjA4MjcxNTIzLDEyNjk1NTg3
-OTMsMzQ4NDIzNDgwLDE1Mjk5MzY3MDMsNzYwMDAwNjk2LDE4NT
-A4NjI2ODksLTEyMjE5ODA5OTUsMTMyNDg2NzQ0Ml19
+eyJoaXN0b3J5IjpbNTUwOTkwNjYxLDcwMTE4NjI3MywtMTc3Mj
+g3NjE0MiwtMjEwMTM1ODM2NCw2MDgyNzE1MjMsMTI2OTU1ODc5
+MywzNDg0MjM0ODAsMTUyOTkzNjcwMyw3NjAwMDA2OTYsMTg1MD
+g2MjY4OSwtMTIyMTk4MDk5NSwxMzI0ODY3NDQyXX0=
 -->
