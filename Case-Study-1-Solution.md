@@ -83,7 +83,7 @@
 |Complete Code reuse|Test|
 |Inheritance - A kind of relationship allows us to reuse complete code from another role @compiletime - Complete Code reuse,  Commonality and Variation (family of classes), Generalization and specialization ,  Hierarchy | NewTest 
 |Additive, Child Interface should remain semantically same | test
-|Limitations: Statei
+|Limitations: Static Relationship, Ripple Effect
 
 
 
@@ -91,7 +91,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDYxNjIzMywzMjM1NTY0MTcsNzkwNj
+eyJoaXN0b3J5IjpbMTc1NTU4NTUzNCwzMjM1NTY0MTcsNzkwNj
 AxNDQsOTI3OTMzNTg2LDM4NjU0MTUzOCwxNDY1NjI0MzEwLDU1
 MDk5MDY2MSw3MDExODYyNzMsLTE3NzI4NzYxNDIsLTIxMDEzNT
 gzNjQsNjA4MjcxNTIzLDEyNjk1NTg3OTMsMzQ4NDIzNDgwLDE1
