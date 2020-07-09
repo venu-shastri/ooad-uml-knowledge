@@ -82,12 +82,16 @@
 |  Static Relationship -Compiletime relationship| Dynamic Relationship |
 |Complete Code reuse|--|
 |Inheritance - A kind of relationship allows us to reuse complete code from another role @compiletime
+- Complete Code reuse
+- Commonality and Variation (family of classes)
+- Generalization and specialization
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwNjAxNDQsOTI3OTMzNTg2LDM4NjU0MT
-UzOCwxNDY1NjI0MzEwLDU1MDk5MDY2MSw3MDExODYyNzMsLTE3
-NzI4NzYxNDIsLTIxMDEzNTgzNjQsNjA4MjcxNTIzLDEyNjk1NT
-g3OTMsMzQ4NDIzNDgwLDE1Mjk5MzY3MDMsNzYwMDAwNjk2LDE4
-NTA4NjI2ODksLTEyMjE5ODA5OTUsMTMyNDg2NzQ0Ml19
+eyJoaXN0b3J5IjpbLTM1MTgyODk2NSw3OTA2MDE0NCw5Mjc5Mz
+M1ODYsMzg2NTQxNTM4LDE0NjU2MjQzMTAsNTUwOTkwNjYxLDcw
+MTE4NjI3MywtMTc3Mjg3NjE0MiwtMjEwMTM1ODM2NCw2MDgyNz
+E1MjMsMTI2OTU1ODc5MywzNDg0MjM0ODAsMTUyOTkzNjcwMyw3
+NjAwMDA2OTYsMTg1MDg2MjY4OSwtMTIyMTk4MDk5NSwxMzI0OD
+Y3NDQyXX0=
 -->
