@@ -73,9 +73,11 @@
 - FinancialRiskMgmtControlller
 
 ### 2.  Reusability
-- Relationships
+- Types
+	- Class Reuse
+	- Object Reuse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTI4NTY0MDEsMTQ2NTYyNDMxMCw1NT
+eyJoaXN0b3J5IjpbLTE1NjI5MzU4MzYsMTQ2NTYyNDMxMCw1NT
 A5OTA2NjEsNzAxMTg2MjczLC0xNzcyODc2MTQyLC0yMTAxMzU4
 MzY0LDYwODI3MTUyMywxMjY5NTU4NzkzLDM0ODQyMzQ4MCwxNT
 I5OTM2NzAzLDc2MDAwMDY5NiwxODUwODYyNjg5LC0xMjIxOTgw
