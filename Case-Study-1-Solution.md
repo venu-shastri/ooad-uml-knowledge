@@ -79,14 +79,15 @@
 	
 | Class Reuse | Object Reuse |
 |--|--|
-|  Static Relationship| Dynamic Relationship |
+|  Static Relationship -Compiletime relationship| Dynamic Relationship |
 |Complete Code reuse|--|
+|Inheritance - A kind of relationship allows us to reuse complete code from another role @compiletime
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3OTMzNTg2LDM4NjU0MTUzOCwxNDY1Nj
-I0MzEwLDU1MDk5MDY2MSw3MDExODYyNzMsLTE3NzI4NzYxNDIs
-LTIxMDEzNTgzNjQsNjA4MjcxNTIzLDEyNjk1NTg3OTMsMzQ4ND
-IzNDgwLDE1Mjk5MzY3MDMsNzYwMDAwNjk2LDE4NTA4NjI2ODks
-LTEyMjE5ODA5OTUsMTMyNDg2NzQ0Ml19
+eyJoaXN0b3J5IjpbNzkwNjAxNDQsOTI3OTMzNTg2LDM4NjU0MT
+UzOCwxNDY1NjI0MzEwLDU1MDk5MDY2MSw3MDExODYyNzMsLTE3
+NzI4NzYxNDIsLTIxMDEzNTgzNjQsNjA4MjcxNTIzLDEyNjk1NT
+g3OTMsMzQ4NDIzNDgwLDE1Mjk5MzY3MDMsNzYwMDAwNjk2LDE4
+NTA4NjI2ODksLTEyMjE5ODA5OTUsMTMyNDg2NzQ0Ml19
 -->
