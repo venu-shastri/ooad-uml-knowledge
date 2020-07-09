@@ -47,10 +47,13 @@
 ### Object Oriented Decomposition
 
 ## Hierarchy Of OOPs Concepts
-#### Encapsulation
+#### 1.Encapsulation
 
 - Define Role and Assign Responsibilities
 - SRP Principle
+	- Class should not change for more than one Reason
+	- High Cohesion 
+	- interdependency b/w class members must
 - UML Diagram - Class Diagram
 
 ### Candidate Object List 
@@ -71,7 +74,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTYzOTcyMyw3MDExODYyNzMsLTE3Nz
+eyJoaXN0b3J5IjpbMTkyMjA0ODg5Nyw3MDExODYyNzMsLTE3Nz
 I4NzYxNDIsLTIxMDEzNTgzNjQsNjA4MjcxNTIzLDEyNjk1NTg3
 OTMsMzQ4NDIzNDgwLDE1Mjk5MzY3MDMsNzYwMDAwNjk2LDE4NT
 A4NjI2ODksLTEyMjE5ODA5OTUsMTMyNDg2NzQ0Ml19
