@@ -77,14 +77,14 @@
 	- Class Reuse
 	- Object Reuse
 	
-|  |  |
+| Class Reuse | Object Reuse |
 |--|--|
-|  |  |
+|  Static Relationship| Dynamic Relationship |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDU1Mjc2NTAsMTQ2NTYyNDMxMCw1NT
-A5OTA2NjEsNzAxMTg2MjczLC0xNzcyODc2MTQyLC0yMTAxMzU4
-MzY0LDYwODI3MTUyMywxMjY5NTU4NzkzLDM0ODQyMzQ4MCwxNT
-I5OTM2NzAzLDc2MDAwMDY5NiwxODUwODYyNjg5LC0xMjIxOTgw
-OTk1LDEzMjQ4Njc0NDJdfQ==
+eyJoaXN0b3J5IjpbMzg2NTQxNTM4LDE0NjU2MjQzMTAsNTUwOT
+kwNjYxLDcwMTE4NjI3MywtMTc3Mjg3NjE0MiwtMjEwMTM1ODM2
+NCw2MDgyNzE1MjMsMTI2OTU1ODc5MywzNDg0MjM0ODAsMTUyOT
+kzNjcwMyw3NjAwMDA2OTYsMTg1MDg2MjY4OSwtMTIyMTk4MDk5
+NSwxMzI0ODY3NDQyXX0=
 -->
