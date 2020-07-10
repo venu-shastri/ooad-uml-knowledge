@@ -84,7 +84,15 @@
 |Complete Code reuse| Selective Reuse(Contract Based)|
 |Inheritance - One role assumes another role A kind of relationship allows us to reuse complete code from another role @compiletime - Complete Code reuse,  Commonality and Variation (family of classes), Generalization and specialization ,  Hierarchy (Single,Multiple,Multilevel,Hybrid) | Uses Relationship : One role uses Another Role (Association,Composition,Aggregation) - Dynamic relationship,No Ripple Effect ,Lazy Instantiation , dynamic Change in Cardinality (Number of Instances),Two way Reuse
 |Additive, Child Interface should remain semantically same | test
-|Issues: Static Relationship, Ripple Effect , Diamond Problem , One Way Reuseh
+|Issues: Static Relationship, Ripple Effect , Diamond Problem , One Way Reuse
+
+
+### Composition and Aggregation
+|  Composition| Aggregation |
+|--|--|
+|Whole Relationship  |Part-Of relationship  |
+|Death Relationship| Lifetime independn
+
 
 
 
@@ -92,10 +100,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwMzE5MzExLC03MzY3MDA0OTMsMjA3Mz
-gyNjM3Myw0NTk3NTg2MDcsNDQ0MzMzMzksMTMzOTg2MjUzNCw4
-NjQwOTA4MzQsMTc1NTU4NTUzNCwzMjM1NTY0MTcsNzkwNjAxND
-QsOTI3OTMzNTg2LDM4NjU0MTUzOCwxNDY1NjI0MzEwLDU1MDk5
-MDY2MSw3MDExODYyNzMsLTE3NzI4NzYxNDIsLTIxMDEzNTgzNj
-QsNjA4MjcxNTIzLDEyNjk1NTg3OTMsMzQ4NDIzNDgwXX0=
+eyJoaXN0b3J5IjpbLTE2MTkyMTU5ODMsOTIwMzE5MzExLC03Mz
+Y3MDA0OTMsMjA3MzgyNjM3Myw0NTk3NTg2MDcsNDQ0MzMzMzks
+MTMzOTg2MjUzNCw4NjQwOTA4MzQsMTc1NTU4NTUzNCwzMjM1NT
+Y0MTcsNzkwNjAxNDQsOTI3OTMzNTg2LDM4NjU0MTUzOCwxNDY1
+NjI0MzEwLDU1MDk5MDY2MSw3MDExODYyNzMsLTE3NzI4NzYxND
+IsLTIxMDEzNTgzNjQsNjA4MjcxNTIzLDEyNjk1NTg3OTNdfQ==
+
 -->
