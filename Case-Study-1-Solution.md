@@ -87,11 +87,14 @@
 |Issues: Static Relationship, Ripple Effect , Diamond Problem , One Way Reuse
 
 
-### Composition and Aggregation
+### Composition and Aggregation (Specific Forms of Uses Relationship)
 |  Composition| Aggregation |
 |--|--|
 |Whole Relationship  |Part-Of relationship  |
-|Death Relationship| Lifetime independn
+|Death Relationship| Lifetime independent|
+|Contains|Holds|
+|UI, FileSystem|Aggregators (Containers)
+|UML - Filled Diamond| UML - Empty- Diamond
 
 
 
@@ -100,11 +103,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTkyMTU5ODMsOTIwMzE5MzExLC03Mz
-Y3MDA0OTMsMjA3MzgyNjM3Myw0NTk3NTg2MDcsNDQ0MzMzMzks
-MTMzOTg2MjUzNCw4NjQwOTA4MzQsMTc1NTU4NTUzNCwzMjM1NT
-Y0MTcsNzkwNjAxNDQsOTI3OTMzNTg2LDM4NjU0MTUzOCwxNDY1
-NjI0MzEwLDU1MDk5MDY2MSw3MDExODYyNzMsLTE3NzI4NzYxND
-IsLTIxMDEzNTgzNjQsNjA4MjcxNTIzLDEyNjk1NTg3OTNdfQ==
-
+eyJoaXN0b3J5IjpbMjAwNjQyNTcwLDkyMDMxOTMxMSwtNzM2Nz
+AwNDkzLDIwNzM4MjYzNzMsNDU5NzU4NjA3LDQ0NDMzMzM5LDEz
+Mzk4NjI1MzQsODY0MDkwODM0LDE3NTU1ODU1MzQsMzIzNTU2ND
+E3LDc5MDYwMTQ0LDkyNzkzMzU4NiwzODY1NDE1MzgsMTQ2NTYy
+NDMxMCw1NTA5OTA2NjEsNzAxMTg2MjczLC0xNzcyODc2MTQyLC
+0yMTAxMzU4MzY0LDYwODI3MTUyMywxMjY5NTU4NzkzXX0=
 -->
