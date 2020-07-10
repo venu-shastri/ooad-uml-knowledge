@@ -97,10 +97,15 @@
 |UML - Filled Diamond| UML - Empty- Diamond
 
 ## Dependency Invertion Principle
-- Loosly coupled Solution
+- Loosely coupled Solution
 - Object for Change
 - Program for interface not for implementation
-- High level module should not depend on Low level Module but both shou
+- High level module should not depend on Low level Module but both should depend on **Abstraction**
+
+#### High level Module
+> One who depend on other (Client)
+> One uses other object
+> One
 
 
 
@@ -109,10 +114,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwODY4NjQ0LDIwMDY0MjU3MCw5MjAzMT
-kzMTEsLTczNjcwMDQ5MywyMDczODI2MzczLDQ1OTc1ODYwNyw0
-NDQzMzMzOSwxMzM5ODYyNTM0LDg2NDA5MDgzNCwxNzU1NTg1NT
-M0LDMyMzU1NjQxNyw3OTA2MDE0NCw5Mjc5MzM1ODYsMzg2NTQx
-NTM4LDE0NjU2MjQzMTAsNTUwOTkwNjYxLDcwMTE4NjI3MywtMT
-c3Mjg3NjE0MiwtMjEwMTM1ODM2NCw2MDgyNzE1MjNdfQ==
+eyJoaXN0b3J5IjpbMTQ2OTg1NDQ0OCwyMDA2NDI1NzAsOTIwMz
+E5MzExLC03MzY3MDA0OTMsMjA3MzgyNjM3Myw0NTk3NTg2MDcs
+NDQ0MzMzMzksMTMzOTg2MjUzNCw4NjQwOTA4MzQsMTc1NTU4NT
+UzNCwzMjM1NTY0MTcsNzkwNjAxNDQsOTI3OTMzNTg2LDM4NjU0
+MTUzOCwxNDY1NjI0MzEwLDU1MDk5MDY2MSw3MDExODYyNzMsLT
+E3NzI4NzYxNDIsLTIxMDEzNTgzNjQsNjA4MjcxNTIzXX0=
 -->
