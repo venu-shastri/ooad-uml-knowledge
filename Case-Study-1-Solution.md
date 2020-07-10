@@ -106,7 +106,7 @@
 > One who depend on other (Client)
 > One uses other object
 > An object depending on other object
-> **Car** uses Engine , **User** uses Remote
+> **Car** uses Engine , **User** uses Remote ,**Phone** uses Simcard , **Application** uses Drivers, ABS uses Re
 
 
 
@@ -115,7 +115,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODc2OTU5NCwyMDA2NDI1NzAsOTIwMz
+eyJoaXN0b3J5IjpbLTUzMzUyNTE1MywyMDA2NDI1NzAsOTIwMz
 E5MzExLC03MzY3MDA0OTMsMjA3MzgyNjM3Myw0NTk3NTg2MDcs
 NDQ0MzMzMzksMTMzOTg2MjUzNCw4NjQwOTA4MzQsMTc1NTU4NT
 UzNCwzMjM1NTY0MTcsNzkwNjAxNDQsOTI3OTMzNTg2LDM4NjU0
