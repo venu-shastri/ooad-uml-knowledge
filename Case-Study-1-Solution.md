@@ -96,7 +96,7 @@
 |UI, FileSystem|Aggregators (Containers)
 |UML - Filled Diamond| UML - Empty- Diamond
 
-## Dependency Invertion Principle
+## Dependency Inversion Principle
 - Loosely coupled Solution
 - Object for Change
 - Program for interface not for implementation
@@ -105,7 +105,8 @@
 #### High level Module
 > One who depend on other (Client)
 > One uses other object
-> One
+> An object depending on other object
+> 
 
 
 
@@ -114,7 +115,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTg1NDQ0OCwyMDA2NDI1NzAsOTIwMz
+eyJoaXN0b3J5IjpbLTEyNTEwMDUwMywyMDA2NDI1NzAsOTIwMz
 E5MzExLC03MzY3MDA0OTMsMjA3MzgyNjM3Myw0NTk3NTg2MDcs
 NDQ0MzMzMzksMTMzOTg2MjUzNCw4NjQwOTA4MzQsMTc1NTU4NT
 UzNCwzMjM1NTY0MTcsNzkwNjAxNDQsOTI3OTMzNTg2LDM4NjU0
