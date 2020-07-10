@@ -106,8 +106,10 @@
 > One who depend on other (Client)
 > One uses other object
 > An object depending on other object
-> **Car** uses Engine , **User** uses Remote ,**Phone** uses Simcard , **Application** uses Drivers, **ABS** uses speedSensors
+> **Car** uses Engine , **User** uses Remote ,**Phone** uses Sim-card , **Application** uses Drivers, **ABS** uses speed-sensors
 
+#### Low Level Module
+>one who provides service (read,write,log
 
 
 
@@ -115,10 +117,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA2MDI0NjQsMjAwNjQyNTcwLDkyMD
-MxOTMxMSwtNzM2NzAwNDkzLDIwNzM4MjYzNzMsNDU5NzU4NjA3
-LDQ0NDMzMzM5LDEzMzk4NjI1MzQsODY0MDkwODM0LDE3NTU1OD
-U1MzQsMzIzNTU2NDE3LDc5MDYwMTQ0LDkyNzkzMzU4NiwzODY1
-NDE1MzgsMTQ2NTYyNDMxMCw1NTA5OTA2NjEsNzAxMTg2MjczLC
-0xNzcyODc2MTQyLC0yMTAxMzU4MzY0LDYwODI3MTUyM119
+eyJoaXN0b3J5IjpbLTk2MjUyNDQsLTEzMjA2MDI0NjQsMjAwNj
+QyNTcwLDkyMDMxOTMxMSwtNzM2NzAwNDkzLDIwNzM4MjYzNzMs
+NDU5NzU4NjA3LDQ0NDMzMzM5LDEzMzk4NjI1MzQsODY0MDkwOD
+M0LDE3NTU1ODU1MzQsMzIzNTU2NDE3LDc5MDYwMTQ0LDkyNzkz
+MzU4NiwzODY1NDE1MzgsMTQ2NTYyNDMxMCw1NTA5OTA2NjEsNz
+AxMTg2MjczLC0xNzcyODc2MTQyLC0yMTAxMzU4MzY0XX0=
 -->
