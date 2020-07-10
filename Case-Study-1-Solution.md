@@ -96,6 +96,12 @@
 |UI, FileSystem|Aggregators (Containers)
 |UML - Filled Diamond| UML - Empty- Diamond
 
+## Dependency Invertion Principle
+- Loosly coupled Solution
+- Object for Change
+- Program for interface not for implementation
+- High level module should not depend on Low level Module but both shou
+
 
 
 
@@ -103,10 +109,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjQyNTcwLDkyMDMxOTMxMSwtNzM2Nz
-AwNDkzLDIwNzM4MjYzNzMsNDU5NzU4NjA3LDQ0NDMzMzM5LDEz
-Mzk4NjI1MzQsODY0MDkwODM0LDE3NTU1ODU1MzQsMzIzNTU2ND
-E3LDc5MDYwMTQ0LDkyNzkzMzU4NiwzODY1NDE1MzgsMTQ2NTYy
-NDMxMCw1NTA5OTA2NjEsNzAxMTg2MjczLC0xNzcyODc2MTQyLC
-0yMTAxMzU4MzY0LDYwODI3MTUyMywxMjY5NTU4NzkzXX0=
+eyJoaXN0b3J5IjpbNTIwODY4NjQ0LDIwMDY0MjU3MCw5MjAzMT
+kzMTEsLTczNjcwMDQ5MywyMDczODI2MzczLDQ1OTc1ODYwNyw0
+NDQzMzMzOSwxMzM5ODYyNTM0LDg2NDA5MDgzNCwxNzU1NTg1NT
+M0LDMyMzU1NjQxNyw3OTA2MDE0NCw5Mjc5MzM1ODYsMzg2NTQx
+NTM4LDE0NjU2MjQzMTAsNTUwOTkwNjYxLDcwMTE4NjI3MywtMT
+c3Mjg3NjE0MiwtMjEwMTM1ODM2NCw2MDgyNzE1MjNdfQ==
 -->
