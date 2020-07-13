@@ -150,6 +150,8 @@
 - Can have 0 or many abstract methods(template methods)
 - Concrete classes (Derived Classes) must implement all the template methods
 - c++ (class with protected constructor / at-least one pure virtual method)
+- C# / java use abstract identifier
+- UMl - use class diagram and label class name in italic font / use stereotype <<-abstract->>
 
 
 	
@@ -159,10 +161,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3Mjg0MTEzLDc3MTUzNzkxNywtMTQyOD
-E1MTY4MywtOTI4MTc2NjAsMTUzODQxNTkxLDIzNTk0MjMyMyw1
-MTkwODA3NzcsMTEyNTc1OTgxMywxMDQyMjQzMzI2LC0xMzIwNj
-AyNDY0LDIwMDY0MjU3MCw5MjAzMTkzMTEsLTczNjcwMDQ5Mywy
-MDczODI2MzczLDQ1OTc1ODYwNyw0NDQzMzMzOSwxMzM5ODYyNT
-M0LDg2NDA5MDgzNCwxNzU1NTg1NTM0LDMyMzU1NjQxN119
+eyJoaXN0b3J5IjpbMTU1OTU5NjM1Myw3NzE1Mzc5MTcsLTE0Mj
+gxNTE2ODMsLTkyODE3NjYwLDE1Mzg0MTU5MSwyMzU5NDIzMjMs
+NTE5MDgwNzc3LDExMjU3NTk4MTMsMTA0MjI0MzMyNiwtMTMyMD
+YwMjQ2NCwyMDA2NDI1NzAsOTIwMzE5MzExLC03MzY3MDA0OTMs
+MjA3MzgyNjM3Myw0NTk3NTg2MDcsNDQ0MzMzMzksMTMzOTg2Mj
+UzNCw4NjQwOTA4MzQsMTc1NTU4NTUzNCwzMjM1NTY0MTddfQ==
+
 -->
