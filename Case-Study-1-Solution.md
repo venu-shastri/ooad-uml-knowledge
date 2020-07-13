@@ -140,6 +140,7 @@
 	- UML - use Class Diagram , annotate with <<-interface->>
 	- Interface GuideLines
 		- Name Convention  : interface name begin with **I**
+		-** "I"** an object who provide service or who realize contract
 	
 
 
@@ -147,10 +148,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODE5ODg4MTMsMTUzODQxNTkxLDIzNT
-k0MjMyMyw1MTkwODA3NzcsMTEyNTc1OTgxMywxMDQyMjQzMzI2
-LC0xMzIwNjAyNDY0LDIwMDY0MjU3MCw5MjAzMTkzMTEsLTczNj
-cwMDQ5MywyMDczODI2MzczLDQ1OTc1ODYwNyw0NDQzMzMzOSwx
-MzM5ODYyNTM0LDg2NDA5MDgzNCwxNzU1NTg1NTM0LDMyMzU1Nj
-QxNyw3OTA2MDE0NCw5Mjc5MzM1ODYsMzg2NTQxNTM4XX0=
+eyJoaXN0b3J5IjpbLTkyODE3NjYwLDE1Mzg0MTU5MSwyMzU5ND
+IzMjMsNTE5MDgwNzc3LDExMjU3NTk4MTMsMTA0MjI0MzMyNiwt
+MTMyMDYwMjQ2NCwyMDA2NDI1NzAsOTIwMzE5MzExLC03MzY3MD
+A0OTMsMjA3MzgyNjM3Myw0NTk3NTg2MDcsNDQ0MzMzMzksMTMz
+OTg2MjUzNCw4NjQwOTA4MzQsMTc1NTU4NTUzNCwzMjM1NTY0MT
+csNzkwNjAxNDQsOTI3OTMzNTg2LDM4NjU0MTUzOF19
 -->
