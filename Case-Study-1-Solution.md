@@ -145,10 +145,11 @@
 		- Avoid Fat interfaces - use **Interface Segregation Principle**
 
 ### abstract classes and methods
-- Code Reuse 
+- Code Reuse Allowed
 - Instantiation Restricted
 - Can have 0 or many abstract methods(template methods)
-- Concrete 
+- Concrete classes (Derived Classes) must implement all the template methods
+- c++ (class with protected constructor / at-least one pure virtual method)
 
 
 	
@@ -158,7 +159,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwNDA4MTg2LDc3MTUzNzkxNywtMTQyOD
+eyJoaXN0b3J5IjpbMjQ3Mjg0MTEzLDc3MTUzNzkxNywtMTQyOD
 E1MTY4MywtOTI4MTc2NjAsMTUzODQxNTkxLDIzNTk0MjMyMyw1
 MTkwODA3NzcsMTEyNTc1OTgxMywxMDQyMjQzMzI2LC0xMzIwNj
 AyNDY0LDIwMDY0MjU3MCw5MjAzMTkzMTEsLTczNjcwMDQ5Mywy
