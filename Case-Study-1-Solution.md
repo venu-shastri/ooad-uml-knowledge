@@ -143,6 +143,14 @@
 		-** "I"** an object who provide service or who realize contract
 		-One Can realize/implement any number of interfaces
 		- Avoid Fat interfaces - use **Interface Segregation Principle**
+
+### abstract classes and methods
+- Code Reuse 
+- Instantiation Restricted
+- Can have 0 or many abstract methods(template methods)
+- Concrete 
+
+
 	
 
 
@@ -150,10 +158,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxNTM3OTE3LC0xNDI4MTUxNjgzLC05Mj
-gxNzY2MCwxNTM4NDE1OTEsMjM1OTQyMzIzLDUxOTA4MDc3Nywx
-MTI1NzU5ODEzLDEwNDIyNDMzMjYsLTEzMjA2MDI0NjQsMjAwNj
-QyNTcwLDkyMDMxOTMxMSwtNzM2NzAwNDkzLDIwNzM4MjYzNzMs
-NDU5NzU4NjA3LDQ0NDMzMzM5LDEzMzk4NjI1MzQsODY0MDkwOD
-M0LDE3NTU1ODU1MzQsMzIzNTU2NDE3LDc5MDYwMTQ0XX0=
+eyJoaXN0b3J5IjpbNTkwNDA4MTg2LDc3MTUzNzkxNywtMTQyOD
+E1MTY4MywtOTI4MTc2NjAsMTUzODQxNTkxLDIzNTk0MjMyMyw1
+MTkwODA3NzcsMTEyNTc1OTgxMywxMDQyMjQzMzI2LC0xMzIwNj
+AyNDY0LDIwMDY0MjU3MCw5MjAzMTkzMTEsLTczNjcwMDQ5Mywy
+MDczODI2MzczLDQ1OTc1ODYwNyw0NDQzMzMzOSwxMzM5ODYyNT
+M0LDg2NDA5MDgzNCwxNzU1NTg1NTM0LDMyMzU1NjQxN119
 -->
