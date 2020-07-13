@@ -124,12 +124,13 @@
 - public view of an object
 - interface dictates kind of vocabulary to be used in the dialog b/w two objects
 -  Typed Contract (Commitment and expectation)
+	- **Method Signatures**
 	- Provider Interface 
 		- interface provided by service provider(Low Level Module)
 		- **How-  one should request for service**
 	- Consumer Interface
 	- interface provided by consumer (High Level Module)
-	- Expectaion form Highlevel module
+	- Expectation form High-level module
 	- **"Ensure required behavior exist in low level Module"**
 
 
@@ -137,10 +138,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQxMjg5MTksMjM1OTQyMzIzLDUxOT
-A4MDc3NywxMTI1NzU5ODEzLDEwNDIyNDMzMjYsLTEzMjA2MDI0
-NjQsMjAwNjQyNTcwLDkyMDMxOTMxMSwtNzM2NzAwNDkzLDIwNz
-M4MjYzNzMsNDU5NzU4NjA3LDQ0NDMzMzM5LDEzMzk4NjI1MzQs
-ODY0MDkwODM0LDE3NTU1ODU1MzQsMzIzNTU2NDE3LDc5MDYwMT
-Q0LDkyNzkzMzU4NiwzODY1NDE1MzgsMTQ2NTYyNDMxMF19
+eyJoaXN0b3J5IjpbMTQ0Nzg2ODg1MSwyMzU5NDIzMjMsNTE5MD
+gwNzc3LDExMjU3NTk4MTMsMTA0MjI0MzMyNiwtMTMyMDYwMjQ2
+NCwyMDA2NDI1NzAsOTIwMzE5MzExLC03MzY3MDA0OTMsMjA3Mz
+gyNjM3Myw0NTk3NTg2MDcsNDQ0MzMzMzksMTMzOTg2MjUzNCw4
+NjQwOTA4MzQsMTc1NTU4NTUzNCwzMjM1NTY0MTcsNzkwNjAxND
+QsOTI3OTMzNTg2LDM4NjU0MTUzOCwxNDY1NjI0MzEwXX0=
 -->
