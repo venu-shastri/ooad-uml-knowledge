@@ -138,6 +138,8 @@
 	- Class - pure virtual methods (C++)
 	- use interface identifiers (C#, Java)
 	- UML - use Class Diagram , annotate with <<-interface->>
+	- Interface GuideLines
+		- 
 	
 
 
@@ -145,10 +147,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODQxNTkxLDIzNTk0MjMyMyw1MTkwOD
-A3NzcsMTEyNTc1OTgxMywxMDQyMjQzMzI2LC0xMzIwNjAyNDY0
-LDIwMDY0MjU3MCw5MjAzMTkzMTEsLTczNjcwMDQ5MywyMDczOD
-I2MzczLDQ1OTc1ODYwNyw0NDQzMzMzOSwxMzM5ODYyNTM0LDg2
-NDA5MDgzNCwxNzU1NTg1NTM0LDMyMzU1NjQxNyw3OTA2MDE0NC
-w5Mjc5MzM1ODYsMzg2NTQxNTM4LDE0NjU2MjQzMTBdfQ==
+eyJoaXN0b3J5IjpbLTE1MTgyNDg5NjUsMTUzODQxNTkxLDIzNT
+k0MjMyMyw1MTkwODA3NzcsMTEyNTc1OTgxMywxMDQyMjQzMzI2
+LC0xMzIwNjAyNDY0LDIwMDY0MjU3MCw5MjAzMTkzMTEsLTczNj
+cwMDQ5MywyMDczODI2MzczLDQ1OTc1ODYwNyw0NDQzMzMzOSwx
+MzM5ODYyNTM0LDg2NDA5MDgzNCwxNzU1NTg1NTM0LDMyMzU1Nj
+QxNyw3OTA2MDE0NCw5Mjc5MzM1ODYsMzg2NTQxNTM4XX0=
 -->
