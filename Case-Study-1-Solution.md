@@ -114,11 +114,11 @@
 
 ### Steps for Abstraction
 - Identify Low Level Module
-- Extract required interface from Low Level Module
+- **Extract**  required **interface** from Low Level Module
 - Let Low Level Module **Realize** the extracted  interface
 - Identify High Level Module
-- Let High Level Module depends on reference of Extracted / Required Interface
-- At runtime substitute or **inject** instance of Low Level Module  to set high level module interface reference.
+- Let High Level Module **depends** on reference of Extracted / Required Interface
+- At runtime **substitute** or **inject** instance of Low Level Module  to set high level module interface reference.
 
 
 
@@ -126,11 +126,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI1NDQwNjMsMTA0MjI0MzMyNiwtMT
-MyMDYwMjQ2NCwyMDA2NDI1NzAsOTIwMzE5MzExLC03MzY3MDA0
-OTMsMjA3MzgyNjM3Myw0NTk3NTg2MDcsNDQ0MzMzMzksMTMzOT
-g2MjUzNCw4NjQwOTA4MzQsMTc1NTU4NTUzNCwzMjM1NTY0MTcs
-NzkwNjAxNDQsOTI3OTMzNTg2LDM4NjU0MTUzOCwxNDY1NjI0Mz
-EwLDU1MDk5MDY2MSw3MDExODYyNzMsLTE3NzI4NzYxNDJdfQ==
-
+eyJoaXN0b3J5IjpbMTEyNTc1OTgxMywxMDQyMjQzMzI2LC0xMz
+IwNjAyNDY0LDIwMDY0MjU3MCw5MjAzMTkzMTEsLTczNjcwMDQ5
+MywyMDczODI2MzczLDQ1OTc1ODYwNyw0NDQzMzMzOSwxMzM5OD
+YyNTM0LDg2NDA5MDgzNCwxNzU1NTg1NTM0LDMyMzU1NjQxNyw3
+OTA2MDE0NCw5Mjc5MzM1ODYsMzg2NTQxNTM4LDE0NjU2MjQzMT
+AsNTUwOTkwNjYxLDcwMTE4NjI3MywtMTc3Mjg3NjE0Ml19
 -->
