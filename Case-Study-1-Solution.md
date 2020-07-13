@@ -130,14 +130,14 @@
 	- Consumer Interface
 	- interface provided by consumer (High Level Module)
 	- Expectaion form Highlevel module
-	- "Ensure required behavior exist in low level Module"
-	- "If you control your anger then we can sit and talk"
+	- **"Ensure required behavior exist in low level Module"**
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI1MzMwOTEsMjM1OTQyMzIzLDUxOT
+eyJoaXN0b3J5IjpbLTEyNjQxMjg5MTksMjM1OTQyMzIzLDUxOT
 A4MDc3NywxMTI1NzU5ODEzLDEwNDIyNDMzMjYsLTEzMjA2MDI0
 NjQsMjAwNjQyNTcwLDkyMDMxOTMxMSwtNzM2NzAwNDkzLDIwNz
 M4MjYzNzMsNDU5NzU4NjA3LDQ0NDMzMzM5LDEzMzk4NjI1MzQs
