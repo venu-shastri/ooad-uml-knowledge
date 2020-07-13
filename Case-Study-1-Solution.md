@@ -124,15 +124,17 @@
 - public view of an object
 - interface dictates kind of vocabulary to be used in the dialog b/w two objects
 -  Typed Contract (Commitment and expectation)
+	- Provider Interface
+	- Consum
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1OTQyMzIzLDUxOTA4MDc3NywxMTI1Nz
-U5ODEzLDEwNDIyNDMzMjYsLTEzMjA2MDI0NjQsMjAwNjQyNTcw
-LDkyMDMxOTMxMSwtNzM2NzAwNDkzLDIwNzM4MjYzNzMsNDU5Nz
-U4NjA3LDQ0NDMzMzM5LDEzMzk4NjI1MzQsODY0MDkwODM0LDE3
-NTU1ODU1MzQsMzIzNTU2NDE3LDc5MDYwMTQ0LDkyNzkzMzU4Ni
-wzODY1NDE1MzgsMTQ2NTYyNDMxMCw1NTA5OTA2NjFdfQ==
+eyJoaXN0b3J5IjpbNjk5NjY3MTc0LDIzNTk0MjMyMyw1MTkwOD
+A3NzcsMTEyNTc1OTgxMywxMDQyMjQzMzI2LC0xMzIwNjAyNDY0
+LDIwMDY0MjU3MCw5MjAzMTkzMTEsLTczNjcwMDQ5MywyMDczOD
+I2MzczLDQ1OTc1ODYwNyw0NDQzMzMzOSwxMzM5ODYyNTM0LDg2
+NDA5MDgzNCwxNzU1NTg1NTM0LDMyMzU1NjQxNyw3OTA2MDE0NC
+w5Mjc5MzM1ODYsMzg2NTQxNTM4LDE0NjU2MjQzMTBdfQ==
 -->
