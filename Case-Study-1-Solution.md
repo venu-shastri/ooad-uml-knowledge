@@ -142,7 +142,7 @@
 		- Name Convention  : interface name begin with **I**
 		-** "I"** an object who provide service or who realize contract
 		-One Can realize/implement any number of interfaces
-		- Avoid Fat interfaces 
+		- Avoid Fat interfaces - use **Interface Segregation Principle**
 	
 
 
@@ -150,10 +150,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzMwODA4MCwtMTQyODE1MTY4MywtOT
-I4MTc2NjAsMTUzODQxNTkxLDIzNTk0MjMyMyw1MTkwODA3Nzcs
-MTEyNTc1OTgxMywxMDQyMjQzMzI2LC0xMzIwNjAyNDY0LDIwMD
-Y0MjU3MCw5MjAzMTkzMTEsLTczNjcwMDQ5MywyMDczODI2Mzcz
-LDQ1OTc1ODYwNyw0NDQzMzMzOSwxMzM5ODYyNTM0LDg2NDA5MD
-gzNCwxNzU1NTg1NTM0LDMyMzU1NjQxNyw3OTA2MDE0NF19
+eyJoaXN0b3J5IjpbNzcxNTM3OTE3LC0xNDI4MTUxNjgzLC05Mj
+gxNzY2MCwxNTM4NDE1OTEsMjM1OTQyMzIzLDUxOTA4MDc3Nywx
+MTI1NzU5ODEzLDEwNDIyNDMzMjYsLTEzMjA2MDI0NjQsMjAwNj
+QyNTcwLDkyMDMxOTMxMSwtNzM2NzAwNDkzLDIwNzM4MjYzNzMs
+NDU5NzU4NjA3LDQ0NDMzMzM5LDEzMzk4NjI1MzQsODY0MDkwOD
+M0LDE3NTU1ODU1MzQsMzIzNTU2NDE3LDc5MDYwMTQ0XX0=
 -->
