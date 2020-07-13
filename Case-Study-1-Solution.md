@@ -139,7 +139,7 @@
 	- use interface identifiers (C#, Java)
 	- UML - use Class Diagram , annotate with <<-interface->>
 	- Interface GuideLines
-		- 
+		- Name Convention  : interface name begin with **I**
 	
 
 
@@ -147,7 +147,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTgyNDg5NjUsMTUzODQxNTkxLDIzNT
+eyJoaXN0b3J5IjpbLTEzODE5ODg4MTMsMTUzODQxNTkxLDIzNT
 k0MjMyMyw1MTkwODA3NzcsMTEyNTc1OTgxMywxMDQyMjQzMzI2
 LC0xMzIwNjAyNDY0LDIwMDY0MjU3MCw5MjAzMTkzMTEsLTczNj
 cwMDQ5MywyMDczODI2MzczLDQ1OTc1ODYwNyw0NDQzMzMzOSwx
