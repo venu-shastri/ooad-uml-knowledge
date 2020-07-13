@@ -120,16 +120,17 @@
 - Let High Level Module **depends** on reference of Extracted / Required Interface
 - At runtime **substitute** or **inject** instance of Low Level Module  to set high level module interface reference.
 
-
+#### interface
+- public view of an object
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTc1OTgxMywxMDQyMjQzMzI2LC0xMz
-IwNjAyNDY0LDIwMDY0MjU3MCw5MjAzMTkzMTEsLTczNjcwMDQ5
-MywyMDczODI2MzczLDQ1OTc1ODYwNyw0NDQzMzMzOSwxMzM5OD
-YyNTM0LDg2NDA5MDgzNCwxNzU1NTg1NTM0LDMyMzU1NjQxNyw3
-OTA2MDE0NCw5Mjc5MzM1ODYsMzg2NTQxNTM4LDE0NjU2MjQzMT
-AsNTUwOTkwNjYxLDcwMTE4NjI3MywtMTc3Mjg3NjE0Ml19
+eyJoaXN0b3J5IjpbMTI5OTAxNTczOCwxMTI1NzU5ODEzLDEwND
+IyNDMzMjYsLTEzMjA2MDI0NjQsMjAwNjQyNTcwLDkyMDMxOTMx
+MSwtNzM2NzAwNDkzLDIwNzM4MjYzNzMsNDU5NzU4NjA3LDQ0ND
+MzMzM5LDEzMzk4NjI1MzQsODY0MDkwODM0LDE3NTU1ODU1MzQs
+MzIzNTU2NDE3LDc5MDYwMTQ0LDkyNzkzMzU4NiwzODY1NDE1Mz
+gsMTQ2NTYyNDMxMCw1NTA5OTA2NjEsNzAxMTg2MjczXX0=
 -->
