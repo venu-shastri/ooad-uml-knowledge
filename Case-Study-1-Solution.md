@@ -142,6 +142,7 @@
 		- Name Convention  : interface name begin with **I**
 		-** "I"** an object who provide service or who realize contract
 		-One Can realize/implement any number of interfaces
+		- Avoid Fat interfaces 
 	
 
 
@@ -149,10 +150,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjgxNTE2ODMsLTkyODE3NjYwLDE1Mz
-g0MTU5MSwyMzU5NDIzMjMsNTE5MDgwNzc3LDExMjU3NTk4MTMs
-MTA0MjI0MzMyNiwtMTMyMDYwMjQ2NCwyMDA2NDI1NzAsOTIwMz
-E5MzExLC03MzY3MDA0OTMsMjA3MzgyNjM3Myw0NTk3NTg2MDcs
-NDQ0MzMzMzksMTMzOTg2MjUzNCw4NjQwOTA4MzQsMTc1NTU4NT
-UzNCwzMjM1NTY0MTcsNzkwNjAxNDQsOTI3OTMzNTg2XX0=
+eyJoaXN0b3J5IjpbMTIyMzMwODA4MCwtMTQyODE1MTY4MywtOT
+I4MTc2NjAsMTUzODQxNTkxLDIzNTk0MjMyMyw1MTkwODA3Nzcs
+MTEyNTc1OTgxMywxMDQyMjQzMzI2LC0xMzIwNjAyNDY0LDIwMD
+Y0MjU3MCw5MjAzMTkzMTEsLTczNjcwMDQ5MywyMDczODI2Mzcz
+LDQ1OTc1ODYwNyw0NDQzMzMzOSwxMzM5ODYyNTM0LDg2NDA5MD
+gzNCwxNzU1NTg1NTM0LDMyMzU1NjQxNyw3OTA2MDE0NF19
 -->
