@@ -153,7 +153,7 @@
 - C# / java use abstract identifier
 - UMl - use class diagram and label class name in italic font / use stereotype <<-abstract->>
 - ex: vehicle (Drive) , Control (paint), Camera (capture), Person ,sensors ,Screen
-- 
+
 
 
 	
@@ -163,10 +163,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2MDMyNjY3LDc3MTUzNzkxNywtMTQyOD
-E1MTY4MywtOTI4MTc2NjAsMTUzODQxNTkxLDIzNTk0MjMyMyw1
-MTkwODA3NzcsMTEyNTc1OTgxMywxMDQyMjQzMzI2LC0xMzIwNj
-AyNDY0LDIwMDY0MjU3MCw5MjAzMTkzMTEsLTczNjcwMDQ5Mywy
-MDczODI2MzczLDQ1OTc1ODYwNyw0NDQzMzMzOSwxMzM5ODYyNT
-M0LDg2NDA5MDgzNCwxNzU1NTg1NTM0LDMyMzU1NjQxN119
+eyJoaXN0b3J5IjpbLTE3ODY4OTczOTQsNzcxNTM3OTE3LC0xND
+I4MTUxNjgzLC05MjgxNzY2MCwxNTM4NDE1OTEsMjM1OTQyMzIz
+LDUxOTA4MDc3NywxMTI1NzU5ODEzLDEwNDIyNDMzMjYsLTEzMj
+A2MDI0NjQsMjAwNjQyNTcwLDkyMDMxOTMxMSwtNzM2NzAwNDkz
+LDIwNzM4MjYzNzMsNDU5NzU4NjA3LDQ0NDMzMzM5LDEzMzk4Nj
+I1MzQsODY0MDkwODM0LDE3NTU1ODU1MzQsMzIzNTU2NDE3XX0=
+
 -->
