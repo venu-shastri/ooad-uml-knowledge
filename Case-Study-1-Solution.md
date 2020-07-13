@@ -112,17 +112,21 @@
 >one who provides service (read,write,log.......)
 > Car uses **Engine** , ABS uses **speed-sensors**
 
+### Steps for Abstraction
+- Identify Low Level Module
+- Extract required interface from Low Level Module
+- Let Low Level Module **Reali
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjI0MzMyNiwtMTMyMDYwMjQ2NCwyMD
-A2NDI1NzAsOTIwMzE5MzExLC03MzY3MDA0OTMsMjA3MzgyNjM3
-Myw0NTk3NTg2MDcsNDQ0MzMzMzksMTMzOTg2MjUzNCw4NjQwOT
-A4MzQsMTc1NTU4NTUzNCwzMjM1NTY0MTcsNzkwNjAxNDQsOTI3
-OTMzNTg2LDM4NjU0MTUzOCwxNDY1NjI0MzEwLDU1MDk5MDY2MS
-w3MDExODYyNzMsLTE3NzI4NzYxNDIsLTIxMDEzNTgzNjRdfQ==
-
+eyJoaXN0b3J5IjpbMjcyMzg3ODUsMTA0MjI0MzMyNiwtMTMyMD
+YwMjQ2NCwyMDA2NDI1NzAsOTIwMzE5MzExLC03MzY3MDA0OTMs
+MjA3MzgyNjM3Myw0NTk3NTg2MDcsNDQ0MzMzMzksMTMzOTg2Mj
+UzNCw4NjQwOTA4MzQsMTc1NTU4NTUzNCwzMjM1NTY0MTcsNzkw
+NjAxNDQsOTI3OTMzNTg2LDM4NjU0MTUzOCwxNDY1NjI0MzEwLD
+U1MDk5MDY2MSw3MDExODYyNzMsLTE3NzI4NzYxNDJdfQ==
 -->
