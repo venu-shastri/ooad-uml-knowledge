@@ -141,6 +141,7 @@
 	- Interface GuideLines
 		- Name Convention  : interface name begin with **I**
 		-** "I"** an object who provide service or who realize contract
+		-One Can realize/implement any number of interfaces
 	
 
 
@@ -148,10 +149,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODE3NjYwLDE1Mzg0MTU5MSwyMzU5ND
-IzMjMsNTE5MDgwNzc3LDExMjU3NTk4MTMsMTA0MjI0MzMyNiwt
-MTMyMDYwMjQ2NCwyMDA2NDI1NzAsOTIwMzE5MzExLC03MzY3MD
-A0OTMsMjA3MzgyNjM3Myw0NTk3NTg2MDcsNDQ0MzMzMzksMTMz
-OTg2MjUzNCw4NjQwOTA4MzQsMTc1NTU4NTUzNCwzMjM1NTY0MT
-csNzkwNjAxNDQsOTI3OTMzNTg2LDM4NjU0MTUzOF19
+eyJoaXN0b3J5IjpbLTE0MjgxNTE2ODMsLTkyODE3NjYwLDE1Mz
+g0MTU5MSwyMzU5NDIzMjMsNTE5MDgwNzc3LDExMjU3NTk4MTMs
+MTA0MjI0MzMyNiwtMTMyMDYwMjQ2NCwyMDA2NDI1NzAsOTIwMz
+E5MzExLC03MzY3MDA0OTMsMjA3MzgyNjM3Myw0NTk3NTg2MDcs
+NDQ0MzMzMzksMTMzOTg2MjUzNCw4NjQwOTA4MzQsMTc1NTU4NT
+UzNCwzMjM1NTY0MTcsNzkwNjAxNDQsOTI3OTMzNTg2XX0=
 -->
