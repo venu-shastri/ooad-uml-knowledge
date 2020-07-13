@@ -137,7 +137,7 @@
 	- Function Pointer / Struct (having function pointers only)
 	- Class - pure virtual methods (C++)
 	- use interface identifiers (C#, Java)
-	- UML - use Class Diagram , annotate with <<<interface>>
+	- UML - use Class Diagram , annotate with <<-interface->>
 	
 
 
@@ -145,10 +145,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjMwMjUwNSwyMzU5NDIzMjMsNTE5MD
-gwNzc3LDExMjU3NTk4MTMsMTA0MjI0MzMyNiwtMTMyMDYwMjQ2
-NCwyMDA2NDI1NzAsOTIwMzE5MzExLC03MzY3MDA0OTMsMjA3Mz
-gyNjM3Myw0NTk3NTg2MDcsNDQ0MzMzMzksMTMzOTg2MjUzNCw4
-NjQwOTA4MzQsMTc1NTU4NTUzNCwzMjM1NTY0MTcsNzkwNjAxND
-QsOTI3OTMzNTg2LDM4NjU0MTUzOCwxNDY1NjI0MzEwXX0=
+eyJoaXN0b3J5IjpbMTUzODQxNTkxLDIzNTk0MjMyMyw1MTkwOD
+A3NzcsMTEyNTc1OTgxMywxMDQyMjQzMzI2LC0xMzIwNjAyNDY0
+LDIwMDY0MjU3MCw5MjAzMTkzMTEsLTczNjcwMDQ5MywyMDczOD
+I2MzczLDQ1OTc1ODYwNyw0NDQzMzMzOSwxMzM5ODYyNTM0LDg2
+NDA5MDgzNCwxNzU1NTg1NTM0LDMyMzU1NjQxNyw3OTA2MDE0NC
+w5Mjc5MzM1ODYsMzg2NTQxNTM4LDE0NjU2MjQzMTBdfQ==
 -->
