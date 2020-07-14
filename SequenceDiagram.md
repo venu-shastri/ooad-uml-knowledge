@@ -9,11 +9,12 @@ There are 3 types of Interaction diagrams in UML
 
 # Sequence Diagram
 
-* [What is a Sequence Diagram](#SequenceDiagram)
+* [What is a Sequence Diagram](#Sequence-Diagram)
 * [Sequence Diagram Notations](#Notations)
+* [Sequence Fragments](#Sequence-Fragments)
 	
 
-### SequenceDiagram
+### Sequence-Diagram
 
 Sequence diagrams, commonly used by developers, model the interactions between objects in a single use case. They illustrate how the different parts of a system interact with each other to carry out a function, and the order in which the interactions occur when a particular use case is executed.
 
@@ -53,15 +54,37 @@ specifies a message
 
 #### Different message types;
 - Synchronous message
+	- A synchronous message is used when the sender waits for the receiver to process the message and return before carrying on with another message
 - Asynchronous message
+	- An asynchronous message is used when the message caller does not wait for the receiver to process the message and return before sending other messages to other objects within the system
 -  Return message
+	- A return message is used to indicate that the message receiver is done processing the message and is returning control over to the message caller
 - Participant creation message
+	- objects can be created in the middle of a sequence. The dropped participant box notation is used when you need to show that the particular participant did not exist until the create call was sent.
 -  Participant destruction message
+	- participants, when no longer needed, can also be deleted from a sequence diagram. This is done by adding an ‘X’ at the end of the lifeline of the said participant
 - Reflexive message
-#### Synchronous Message
->A synchronous message is used when the sender waits for the receiver to process the message and return before carrying on with another message
+	- When an object sends a message to itself, it is called a reflexive message.
+
+![Message Types](https://raw.githubusercontent.com/venu-shastri/ooad-uml-knowledge/master/images/Sequence-diagram-MessageTypes.png)
+
+### Sequence-Fragments
+- Sequence fragments are used to show complex interactions such as alternative flows and loops in a more structured way.
+- A sequence diagram is drawn as a box that frames a section of nteractions between objects in a sequence diagrams.
+- On the top left corner of the fragment sits an operator. This – the fragment operator - specifies what sort of a fragment it is.
+- Fragment Types
+	- Alternative Combination Fragment
+	- Option Combination Fragment
+	- Loop Fragment
+#### Alternative-Combination-Fragment
+- It is used when a choice needs to be made between two or more message sequences. 
+- It models the **“if then else” logic
+-  It is specified by mentioning **‘alt’** inside the frame’s name box
+- To show 2 or more alternatives, the frame is divided into what is called **interaction operands** using a dashed line
+- Each operand has a **guard** to test against and it is placed at the top left corner of the operand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDUwNDEwNTQsLTE4MzYwNDE2MDYsLT
-E2MjcxMDMzODYsMTYwOTQxMDI5MywxNDIzNTIzMDU5LDE4MTg2
-NjMxNiwxMTM2NjQ3NDZdfQ==
+eyJoaXN0b3J5IjpbMjU2MjgwMTUxLC0xMzkyMjQ3Mjk3LC0xNz
+Q1MDQxMDU0LC0xODM2MDQxNjA2LC0xNjI3MTAzMzg2LDE2MDk0
+MTAyOTMsMTQyMzUyMzA1OSwxODE4NjYzMTYsMTEzNjY0NzQ2XX
+0=
 -->
