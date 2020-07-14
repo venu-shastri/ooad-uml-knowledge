@@ -94,8 +94,9 @@ The participants are required to identify the different objects from the above p
 ![Assignement 8](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Printer_Visitor.png)
 
 ### Refactor the design
-![enter image description here](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/MultipleInheritance.png)
+
+![Multiple Inheritance](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/MultipleInheritance.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODg2MTIzMjcsMjkwMDcyNjY1LDEzOT
-AwNjM1NTgsLTE1MjMzNDg5NzRdfQ==
+eyJoaXN0b3J5IjpbLTc0MDczNjAxOCwyOTAwNzI2NjUsMTM5MD
+A2MzU1OCwtMTUyMzM0ODk3NF19
 -->
