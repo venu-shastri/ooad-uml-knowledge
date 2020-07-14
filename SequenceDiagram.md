@@ -100,9 +100,11 @@ specifies a message
 – for the Boolean test
 – to test minimum iterations (the loop must execute not less than the number mentioned)
 – to test maximum iterations (the loop mustn’t execute more than the number mentioned)
+
+![Loop](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/New-Loops-Sequence-Diagram-Example-1.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MjA3MDY5MCwtODI0NDg4MDksLTEzOT
-IyNDcyOTcsLTE3NDUwNDEwNTQsLTE4MzYwNDE2MDYsLTE2Mjcx
-MDMzODYsMTYwOTQxMDI5MywxNDIzNTIzMDU5LDE4MTg2NjMxNi
-wxMTM2NjQ3NDZdfQ==
+eyJoaXN0b3J5IjpbOTI5NDk2OTAwLDExNjIwNzA2OTAsLTgyND
+Q4ODA5LC0xMzkyMjQ3Mjk3LC0xNzQ1MDQxMDU0LC0xODM2MDQx
+NjA2LC0xNjI3MTAzMzg2LDE2MDk0MTAyOTMsMTQyMzUyMzA1OS
+wxODE4NjYzMTYsMTEzNjY0NzQ2XX0=
 -->
