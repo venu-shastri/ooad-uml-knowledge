@@ -80,23 +80,21 @@ The participants are required to identify the different objects from the above p
 - Assignment3
 ![Assignment3](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IdentifyRealtionships3.JPG)
 
-- Assignement4
-![Assignement4](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IdentifyRealtionships4.JPG)
-- Assignment 5
+- Assignment 4
 ![Assignment 5](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/BeverageBuilder.png)
 
-- Assignment 6
+- Assignment 5
 ![Assignment 6](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IceCreamFlavor.png)
 
-- Assignement 7
+- Assignement 6
 ![Assignement 7](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Double_Dispatch_Problem%20%281%29.png)
-- Assignement 8
+- Assignement 7
 ![Assignement 8](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Printer_Visitor.png)
 
 ### Refactor the design
 
 ![Multiple Inheritance](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/MultipleInheritance.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDczNjAxOCwyOTAwNzI2NjUsMTM5MD
-A2MzU1OCwtMTUyMzM0ODk3NF19
+eyJoaXN0b3J5IjpbLTE4MDA5MTYzMzMsLTc0MDczNjAxOCwyOT
+AwNzI2NjUsMTM5MDA2MzU1OCwtMTUyMzM0ODk3NF19
 -->
