@@ -24,9 +24,18 @@ A sequence diagram is structured in such a way that it represents a timeline whi
 **A Quick Overview of the Various Parts of a Sequence Diagram**
 
 **Lifeline Notation**
+A sequence diagram is made up of several of these
+lifeline notations
+- They should be arranged horizontally across the top of
+the diagram
+- No two lifeline notations should overlap each other
+- They represent the different objects that interact with
+each other in the system
+- A lifeline notation with an actor element symbol is used
+when the sequence diagram is owned by a use case
 
 ![enter image description here](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Sequence-diagram-Lifeline.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzUyMzA1OSwxODE4NjYzMTYsMTEzNj
-Y0NzQ2XX0=
+eyJoaXN0b3J5IjpbLTkzNjQ5Nzk3OCwxNDIzNTIzMDU5LDE4MT
+g2NjMxNiwxMTM2NjQ3NDZdfQ==
 -->
