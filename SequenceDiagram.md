@@ -82,9 +82,17 @@ specifies a message
 -  It is specified by mentioning **‘alt’** inside the frame’s name box
 - To show 2 or more alternatives, the frame is divided into what is called **interaction operands** using a dashed line
 - Each operand has a **guard** to test against and it is placed at the top left corner of the operand
+
+![Alternative](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Alternative-fragment-example-1.png)
+
+#### Option Combination Fragment
+> The option fragment is used to indicate a sequence that will only occur under a certain condition, otherwise the sequence won’t occur
+• It models the **“if then” statement
+• It is represented with a rectangular frame where ‘opt’ is placed inside the name box
+• Unlike the alternative fragment, the option fragment is not divided to operands
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDQ4ODA5LC0xMzkyMjQ3Mjk3LC0xNz
-Q1MDQxMDU0LC0xODM2MDQxNjA2LC0xNjI3MTAzMzg2LDE2MDk0
-MTAyOTMsMTQyMzUyMzA1OSwxODE4NjYzMTYsMTEzNjY0NzQ2XX
-0=
+eyJoaXN0b3J5IjpbMTI0Mjk4NTAzNSwtODI0NDg4MDksLTEzOT
+IyNDcyOTcsLTE3NDUwNDEwNTQsLTE4MzYwNDE2MDYsLTE2Mjcx
+MDMzODYsMTYwOTQxMDI5MywxNDIzNTIzMDU5LDE4MTg2NjMxNi
+wxMTM2NjQ3NDZdfQ==
 -->
