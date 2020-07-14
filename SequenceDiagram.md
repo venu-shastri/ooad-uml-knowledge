@@ -40,7 +40,28 @@ when the sequence diagram is owned by a use case
 > Activation bar is the box placed on the lifeline. It is used to indicate that an object is active (or instantiated) during an interaction between two objects. The length of the rectangle indicates the duration of the objects staying active.
 
 > In a sequence diagram, an interaction between two objects occurs when one object sends a message to another. The use of the activation bar on the lifelines of the Message Caller (the object that sends the message) and the Message Receiver (the object that receives the message) indicates that both are active/is instantiated during the exchange of the message
+![Activation Bar ](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/ActivationBar.JPG)
+
+**Message Arrows**
+- An arrow from the Message Caller to the Message Receiver
+specifies a message
+- The message can flow in any direction; from left to right, right to left and back to the caller itself
+- The description of the message should go on the arrow
+- Arrow heads may change according to different message types
+- The message arrow comes with a description, which is known as a message signature, on it. The format for this message signature is below. 
+**_message_name (arguments): return_type**
+
+#### Different message types;
+- Synchronous message
+- Asynchronous message
+-  Return message
+- Participant creation message
+-  Participant destruction message
+- Reflexive message
+#### Synchronous Message
+>A synchronous message is used when the sender waits for the receiver to process the message and return before carrying on with another message
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjcxMDMzODYsMTYwOTQxMDI5MywxND
-IzNTIzMDU5LDE4MTg2NjMxNiwxMTM2NjQ3NDZdfQ==
+eyJoaXN0b3J5IjpbLTE3NDUwNDEwNTQsLTE4MzYwNDE2MDYsLT
+E2MjcxMDMzODYsMTYwOTQxMDI5MywxNDIzNTIzMDU5LDE4MTg2
+NjMxNiwxMTM2NjQ3NDZdfQ==
 -->
