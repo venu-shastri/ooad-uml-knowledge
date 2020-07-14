@@ -75,10 +75,12 @@ The participants are required to identify the different objects from the above p
 
 ![Assignment2](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IdentifyRealtionships2.JPG)
 
+![Assignment3](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IdentifyRealtionships3.JPG)
 
+![Assignement4](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IdentifyRealtionships4.JPG)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzIwNzM5OCwxMzkwMDYzNTU4LC0xNT
-IzMzQ4OTc0XX0=
+eyJoaXN0b3J5IjpbMjkwMDcyNjY1LDEzOTAwNjM1NTgsLTE1Mj
+MzNDg5NzRdfQ==
 -->
