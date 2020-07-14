@@ -34,8 +34,8 @@ each other in the system
 - A lifeline notation with an actor element symbol is used
 when the sequence diagram is owned by a use case
 
-![enter image description here](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Sequence-diagram-Lifeline.png)
+![Lifeline Notation](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Sequence-diagram-Lifeline.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjQ5Nzk3OCwxNDIzNTIzMDU5LDE4MT
+eyJoaXN0b3J5IjpbMTYwOTQxMDI5MywxNDIzNTIzMDU5LDE4MT
 g2NjMxNiwxMTM2NjQ3NDZdfQ==
 -->
