@@ -71,8 +71,14 @@ The participants are required to identify the different objects from the above p
 
 ### Identify structural elements Relationships and define statements  
 
+![Assignment1](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IdentifyRealtionships.JPG)
+
+![Assignment2](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IdentifyRealtionships2.JPG)
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc2Mjc4NjMsMTM5MDA2MzU1OCwtMT
-UyMzM0ODk3NF19
+eyJoaXN0b3J5IjpbMjAwMzIwNzM5OCwxMzkwMDYzNTU4LC0xNT
+IzMzQ4OTc0XX0=
 -->
