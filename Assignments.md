@@ -69,10 +69,10 @@ The company has details like name and date of incorporation. Based on the detail
 
 The participants are required to identify the different objects from the above problem statement and realize classes from the same.
 
-### Identify structural elements Relationships and write 
+### Identify structural elements Relationships and define statements  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTU5OTMzNSwxMzkwMDYzNTU4LC0xNT
-IzMzQ4OTc0XX0=
+eyJoaXN0b3J5IjpbLTEzMTc2Mjc4NjMsMTM5MDA2MzU1OCwtMT
+UyMzM0ODk3NF19
 -->
