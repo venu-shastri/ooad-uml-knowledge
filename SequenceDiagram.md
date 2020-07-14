@@ -67,8 +67,10 @@ specifies a message
 
 ![Message Types](https://raw.githubusercontent.com/venu-shastri/ooad-uml-knowledge/master/images/Sequence-diagram-MessageTypes.png)
 
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIyNDcyOTcsLTE3NDUwNDEwNTQsLT
-E4MzYwNDE2MDYsLTE2MjcxMDMzODYsMTYwOTQxMDI5MywxNDIz
-NTIzMDU5LDE4MTg2NjMxNiwxMTM2NjQ3NDZdfQ==
+eyJoaXN0b3J5IjpbLTcxMzY1ODU1NiwtMTM5MjI0NzI5NywtMT
+c0NTA0MTA1NCwtMTgzNjA0MTYwNiwtMTYyNzEwMzM4NiwxNjA5
+NDEwMjkzLDE0MjM1MjMwNTksMTgxODY2MzE2LDExMzY2NDc0Nl
+19
 -->
