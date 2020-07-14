@@ -109,9 +109,10 @@ specifies a message
 • It helps **`manage the size of large sequence diagrams`**
 • Include **`ref`** in the name box of the frame to specify the reference fragment
 • Mention the name of the sequence diagram being referred to inside the frame
+![enter image description here](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Reference-fragment-example.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTgwNDk1OSw5Mjk0OTY5MDAsMTE2Mj
-A3MDY5MCwtODI0NDg4MDksLTEzOTIyNDcyOTcsLTE3NDUwNDEw
-NTQsLTE4MzYwNDE2MDYsLTE2MjcxMDMzODYsMTYwOTQxMDI5My
-wxNDIzNTIzMDU5LDE4MTg2NjMxNiwxMTM2NjQ3NDZdfQ==
+eyJoaXN0b3J5IjpbNTQ5Mjk4NjcwLDkyOTQ5NjkwMCwxMTYyMD
+cwNjkwLC04MjQ0ODgwOSwtMTM5MjI0NzI5NywtMTc0NTA0MTA1
+NCwtMTgzNjA0MTYwNiwtMTYyNzEwMzM4NiwxNjA5NDEwMjkzLD
+E0MjM1MjMwNTksMTgxODY2MzE2LDExMzY2NDc0Nl19
 -->
