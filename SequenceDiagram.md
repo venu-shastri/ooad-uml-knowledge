@@ -11,7 +11,7 @@ There are 3 types of Interaction diagrams in UML
 
 * [What is a Sequence Diagram](#Sequence-Diagram)
 * [Sequence Diagram Notations](#Notations)
-* [Alternative Combination Fragment](#Alternative-Combination-Fragment)
+* [Sequence Fragments](#Sequence-Fragments)
 	
 
 ### Sequence-Diagram
@@ -68,6 +68,14 @@ specifies a message
 
 ![Message Types](https://raw.githubusercontent.com/venu-shastri/ooad-uml-knowledge/master/images/Sequence-diagram-MessageTypes.png)
 
+### Sequence-Fragments
+Manage complex interactions with sequence fragments
+Sequence fragments are used to show complex interactions such as
+alternative flows and loops in a more structured way.
+A sequence diagram is drawn as a box that frames a section of
+interactions between objects in a sequence diagrams.
+On the top left corner of the fragment sits an operator. This – the
+fragment operator - specifies what sort of a fragment it is.
 ### Alternative-Combination-Fragment
 - It is used when a choice needs to be made between two or more message sequences. 
 - It models the “if then else” logic
@@ -75,8 +83,8 @@ specifies a message
 - To show 2 or more alternatives, the frame is divided into what is called **interaction operands** using a dashed line
 - Each operand has a **guard** to test against and it is placed at the top left corner of the operand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTIxODAyMSwtMTM5MjI0NzI5NywtMT
-c0NTA0MTA1NCwtMTgzNjA0MTYwNiwtMTYyNzEwMzM4NiwxNjA5
-NDEwMjkzLDE0MjM1MjMwNTksMTgxODY2MzE2LDExMzY2NDc0Nl
-19
+eyJoaXN0b3J5IjpbLTEzMTU2OTIzMDUsLTEzOTIyNDcyOTcsLT
+E3NDUwNDEwNTQsLTE4MzYwNDE2MDYsLTE2MjcxMDMzODYsMTYw
+OTQxMDI5MywxNDIzNTIzMDU5LDE4MTg2NjMxNiwxMTM2NjQ3ND
+ZdfQ==
 -->
