@@ -65,8 +65,10 @@ specifies a message
 - Reflexive message
 	- When an object sends a message to itself, it is called a reflexive message.
 
+![Message Types](https://raw.githubusercontent.com/venu-shastri/ooad-uml-knowledge/master/images/Sequence-diagram-MessageTypes.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTI2Njg2OCwtMTc0NTA0MTA1NCwtMT
-gzNjA0MTYwNiwtMTYyNzEwMzM4NiwxNjA5NDEwMjkzLDE0MjM1
-MjMwNTksMTgxODY2MzE2LDExMzY2NDc0Nl19
+eyJoaXN0b3J5IjpbLTEzOTIyNDcyOTcsLTE3NDUwNDEwNTQsLT
+E4MzYwNDE2MDYsLTE2MjcxMDMzODYsMTYwOTQxMDI5MywxNDIz
+NTIzMDU5LDE4MTg2NjMxNiwxMTM2NjQ3NDZdfQ==
 -->
