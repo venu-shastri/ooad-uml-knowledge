@@ -71,16 +71,16 @@ The participants are required to identify the different objects from the above p
 
 ### Identify structural elements Relationships and define statements  
 
-![Assignment1](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IdentifyRealtionships.JPG)
+- ![Assignment1](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IdentifyRealtionships.JPG)
 
-![Assignment2](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IdentifyRealtionships2.JPG)
+- ![Assignment2](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IdentifyRealtionships2.JPG)
 
-![Assignment3](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IdentifyRealtionships3.JPG)
+- ![Assignment3](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IdentifyRealtionships3.JPG)
 
-![Assignement4](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IdentifyRealtionships4.JPG)
+- ![Assignement4](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IdentifyRealtionships4.JPG)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwMDcyNjY1LDEzOTAwNjM1NTgsLTE1Mj
-MzNDg5NzRdfQ==
+eyJoaXN0b3J5IjpbLTM5NzY2OTc5MywyOTAwNzI2NjUsMTM5MD
+A2MzU1OCwtMTUyMzM0ODk3NF19
 -->
