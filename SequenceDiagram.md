@@ -69,9 +69,14 @@ specifies a message
 ![Message Types](https://raw.githubusercontent.com/venu-shastri/ooad-uml-knowledge/master/images/Sequence-diagram-MessageTypes.png)
 
 ### Alternative-Combination-Fragment
+- It is used when a choice needs to be made between two or more message sequences. 
+- It models the “if then else” logic
+-  It is specified by mentioning ‘alt’ inside the frame’s name box
+- To show 2 or more alternatives, the frame is divided into what is called **interaction operands** using a dashed line
+- Each operand has a **guard** to test against and it is placed at the top left corner of the operand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzEyOTYxNDgsLTEzOTIyNDcyOTcsLT
-E3NDUwNDEwNTQsLTE4MzYwNDE2MDYsLTE2MjcxMDMzODYsMTYw
-OTQxMDI5MywxNDIzNTIzMDU5LDE4MTg2NjMxNiwxMTM2NjQ3ND
-ZdfQ==
+eyJoaXN0b3J5IjpbMTMzOTIxODAyMSwtMTM5MjI0NzI5NywtMT
+c0NTA0MTA1NCwtMTgzNjA0MTYwNiwtMTYyNzEwMzM4NiwxNjA5
+NDEwMjkzLDE0MjM1MjMwNTksMTgxODY2MzE2LDExMzY2NDc0Nl
+19
 -->
