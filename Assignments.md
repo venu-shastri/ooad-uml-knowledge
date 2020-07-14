@@ -59,19 +59,20 @@ The company has details like name and date of incorporation. Based on the detail
 
 - Total salary that needs to be disbursed for all the employees
 
-<![if !supportLists]>3. <![endif]>Total registration fees collected from all the registered customers
+- Total registration fees collected from all the registered customers
 
-<![if !supportLists]>4. <![endif]>Number of customers
+- Number of customers
 
-<![if !supportLists]>5. <![endif]>Number of employees and so on
+- Number of employees and so on
 
 **Expectation**
 
-<![if !supportLists]>1. <![endif]>The participants are required to identify the different objects from the above problem statement and realize classes from the same.
+The participants are required to identify the different objects from the above problem statement and realize classes from the same.
 
+### Identify structural elements Relationships and write 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQ3NDQyNTcsMTM5MDA2MzU1OCwtMT
-UyMzM0ODk3NF19
+eyJoaXN0b3J5IjpbLTIyNTU5OTMzNSwxMzkwMDYzNTU4LC0xNT
+IzMzQ4OTc0XX0=
 -->
