@@ -53,15 +53,18 @@ specifies a message
 
 #### Different message types;
 - Synchronous message
+	- A synchronous message is used when the sender waits for the receiver to process the message and return before carrying on with another message
 - Asynchronous message
+	- An asynchronous message is used when the message caller does not wait for the receiver to process the message and return before sending other messages to other objects within the system
 -  Return message
+	- A return message is used to indicate that the message receiver is done processing the message and is returning control over to the message caller
 - Participant creation message
 -  Participant destruction message
 - Reflexive message
-#### Synchronous Message
->A synchronous message is used when the sender waits for the receiver to process the message and return before carrying on with another message
+	- When an object sends a message to itself, it is called a reflexive message.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDUwNDEwNTQsLTE4MzYwNDE2MDYsLT
-E2MjcxMDMzODYsMTYwOTQxMDI5MywxNDIzNTIzMDU5LDE4MTg2
-NjMxNiwxMTM2NjQ3NDZdfQ==
+eyJoaXN0b3J5IjpbODQ3MDE5NTExLC0xNzQ1MDQxMDU0LC0xOD
+M2MDQxNjA2LC0xNjI3MTAzMzg2LDE2MDk0MTAyOTMsMTQyMzUy
+MzA1OSwxODE4NjYzMTYsMTEzNjY0NzQ2XX0=
 -->
