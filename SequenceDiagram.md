@@ -94,14 +94,14 @@ specifies a message
 ![Option](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Example-of-an-option-fragment.png)
 
 #### Loop Fragment
->It is used to show a **repetitive sequence**
-• It is drawn as a frame and specified by placing ** ‘loop’** in the name box
+>It is used to show a **`repetitive sequence`**
+• It is drawn as a frame and specified by placing **`loop`** in the name box
 • It can be used
 – for the Boolean test
 – to test minimum iterations (the loop must execute not less than the number mentioned)
 – to test maximum iterations (the loop mustn’t execute more than the number mentioned)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDM5MTgxMSwtODI0NDg4MDksLTEzOT
+eyJoaXN0b3J5IjpbMTE2MjA3MDY5MCwtODI0NDg4MDksLTEzOT
 IyNDcyOTcsLTE3NDUwNDEwNTQsLTE4MzYwNDE2MDYsLTE2Mjcx
 MDMzODYsMTYwOTQxMDI5MywxNDIzNTIzMDU5LDE4MTg2NjMxNi
 wxMTM2NjQ3NDZdfQ==
