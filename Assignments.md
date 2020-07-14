@@ -87,7 +87,12 @@ The participants are required to identify the different objects from the above p
 
 - Assignment 6
 ![Assignment 6](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IceCreamFlavor.png)
+
+- Assignement 7
+![Assignement 7](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Double_Dispatch_Problem%20%281%29.png)
+-Assignem3n
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY3Mzk3NywyOTAwNzI2NjUsMTM5MD
-A2MzU1OCwtMTUyMzM0ODk3NF19
+eyJoaXN0b3J5IjpbNzQyNDEzODMsMjkwMDcyNjY1LDEzOTAwNj
+M1NTgsLTE1MjMzNDg5NzRdfQ==
 -->
