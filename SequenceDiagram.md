@@ -9,11 +9,12 @@ There are 3 types of Interaction diagrams in UML
 
 # Sequence Diagram
 
-* [What is a Sequence Diagram](#SequenceDiagram)
+* [What is a Sequence Diagram](#Sequence-Diagram)
 * [Sequence Diagram Notations](#Notations)
+* [Alternative Combination Fragment](#Alternative-Combination-Fragment)
 	
 
-### SequenceDiagram
+### Sequence-Diagram
 
 Sequence diagrams, commonly used by developers, model the interactions between objects in a single use case. They illustrate how the different parts of a system interact with each other to carry out a function, and the order in which the interactions occur when a particular use case is executed.
 
@@ -67,10 +68,10 @@ specifies a message
 
 ![Message Types](https://raw.githubusercontent.com/venu-shastri/ooad-uml-knowledge/master/images/Sequence-diagram-MessageTypes.png)
 
-#
+### Alternative-Combination-Fragment
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzY1ODU1NiwtMTM5MjI0NzI5NywtMT
-c0NTA0MTA1NCwtMTgzNjA0MTYwNiwtMTYyNzEwMzM4NiwxNjA5
-NDEwMjkzLDE0MjM1MjMwNTksMTgxODY2MzE2LDExMzY2NDc0Nl
-19
+eyJoaXN0b3J5IjpbLTEzNzEyOTYxNDgsLTEzOTIyNDcyOTcsLT
+E3NDUwNDEwNTQsLTE4MzYwNDE2MDYsLTE2MjcxMDMzODYsMTYw
+OTQxMDI5MywxNDIzNTIzMDU5LDE4MTg2NjMxNiwxMTM2NjQ3ND
+ZdfQ==
 -->
