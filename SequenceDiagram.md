@@ -58,8 +58,10 @@ specifies a message
 - Participant creation message
 -  Participant destruction message
 - Reflexive message
+#### Synchronous Message
+>A synchronous message is used when the sender waits for the receiver to process the message and return before carrying on with another message
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTM2NzE5LC0xODM2MDQxNjA2LC0xNj
-I3MTAzMzg2LDE2MDk0MTAyOTMsMTQyMzUyMzA1OSwxODE4NjYz
-MTYsMTEzNjY0NzQ2XX0=
+eyJoaXN0b3J5IjpbLTE3NDUwNDEwNTQsLTE4MzYwNDE2MDYsLT
+E2MjcxMDMzODYsMTYwOTQxMDI5MywxNDIzNTIzMDU5LDE4MTg2
+NjMxNiwxMTM2NjQ3NDZdfQ==
 -->
