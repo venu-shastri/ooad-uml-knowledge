@@ -69,13 +69,13 @@ specifies a message
 ![Message Types](https://raw.githubusercontent.com/venu-shastri/ooad-uml-knowledge/master/images/Sequence-diagram-MessageTypes.png)
 
 ### Sequence-Fragments
-Manage complex interactions with sequence fragments
-Sequence fragments are used to show complex interactions such as
-alternative flows and loops in a more structured way.
-A sequence diagram is drawn as a box that frames a section of
-interactions between objects in a sequence diagrams.
-On the top left corner of the fragment sits an operator. This – the
-fragment operator - specifies what sort of a fragment it is.
+- Sequence fragments are used to show complex interactions such as alternative flows and loops in a more structured way.
+- A sequence diagram is drawn as a box that frames a section of nteractions between objects in a sequence diagrams.
+- On the top left corner of the fragment sits an operator. This – the fragment operator - specifies what sort of a fragment it is.
+- Fragment Types
+	- Alternative Combination Fragment
+	- Option Combination Fragment
+	- 
 ### Alternative-Combination-Fragment
 - It is used when a choice needs to be made between two or more message sequences. 
 - It models the “if then else” logic
@@ -83,7 +83,7 @@ fragment operator - specifies what sort of a fragment it is.
 - To show 2 or more alternatives, the frame is divided into what is called **interaction operands** using a dashed line
 - Each operand has a **guard** to test against and it is placed at the top left corner of the operand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU2OTIzMDUsLTEzOTIyNDcyOTcsLT
+eyJoaXN0b3J5IjpbLTE3NzM3MzQ5NDAsLTEzOTIyNDcyOTcsLT
 E3NDUwNDEwNTQsLTE4MzYwNDE2MDYsLTE2MjcxMDMzODYsMTYw
 OTQxMDI5MywxNDIzNTIzMDU5LDE4MTg2NjMxNiwxMTM2NjQ3ND
 ZdfQ==
