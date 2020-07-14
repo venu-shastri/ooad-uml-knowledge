@@ -16,7 +16,7 @@ A sequence diagram is structured in such a way that it represents a timeline whi
 
 **Lifeline Notation**
 
-
+![enter image description here](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Sequence-diagram-Lifeline.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjY0NzQ2XX0=
+eyJoaXN0b3J5IjpbMTgxODY2MzE2LDExMzY2NDc0Nl19
 -->
