@@ -1,3 +1,11 @@
+# Interaction Diagrams 
+Interaction diagrams are used to illustrate interactions of
+parts within a system.
+
+There are 3 types of Interaction diagrams in UML
+- Sequence diagrams
+- Communication diagrams
+- Timing diagrams
 
 # Sequence Diagram
 
@@ -19,6 +27,6 @@ A sequence diagram is structured in such a way that it represents a timeline whi
 
 ![enter image description here](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Sequence-diagram-Lifeline.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjI4NzQ1NCwxODE4NjYzMTYsMTEzNj
+eyJoaXN0b3J5IjpbMTQyMzUyMzA1OSwxODE4NjYzMTYsMTEzNj
 Y0NzQ2XX0=
 -->
