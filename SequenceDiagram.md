@@ -1,6 +1,6 @@
 # Sequence Diagram
 
-* [Online Updation](#online-updation)
+* [What is a Sequence DiagramOnline Updation](#online-updation)
 	* [Summary](#summary)
 	* [Questions](#questions)
 	* [Logical Picture](#logical-picture)
@@ -8,5 +8,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjcxMjIzOV19
+eyJoaXN0b3J5IjpbLTIwNDAxNDgyMjJdfQ==
 -->
