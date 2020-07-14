@@ -90,9 +90,11 @@ specifies a message
 • It models the **“if then”** statement
 • It is represented with a rectangular frame where **‘opt’** is placed inside the name box
 • Unlike the alternative fragment, the option fragment is **not divided to operands**
+
+![Option](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Example-of-an-option-fragment.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyMDk0MTksLTgyNDQ4ODA5LC0xMzkyMj
-Q3Mjk3LC0xNzQ1MDQxMDU0LC0xODM2MDQxNjA2LC0xNjI3MTAz
-Mzg2LDE2MDk0MTAyOTMsMTQyMzUyMzA1OSwxODE4NjYzMTYsMT
-EzNjY0NzQ2XX0=
+eyJoaXN0b3J5IjpbLTE4MDE4Nzc4MzAsLTgyNDQ4ODA5LC0xMz
+kyMjQ3Mjk3LC0xNzQ1MDQxMDU0LC0xODM2MDQxNjA2LC0xNjI3
+MTAzMzg2LDE2MDk0MTAyOTMsMTQyMzUyMzA1OSwxODE4NjYzMT
+YsMTEzNjY0NzQ2XX0=
 -->
