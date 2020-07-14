@@ -35,7 +35,8 @@ each other in the system
 when the sequence diagram is owned by a use case
 
 ![Lifeline Notation](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Sequence-diagram-Lifeline.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTQxMDI5MywxNDIzNTIzMDU5LDE4MT
-g2NjMxNiwxMTM2NjQ3NDZdfQ==
+eyJoaXN0b3J5IjpbLTE4MDYzMTY1NzMsMTYwOTQxMDI5MywxND
+IzNTIzMDU5LDE4MTg2NjMxNiwxMTM2NjQ3NDZdfQ==
 -->
