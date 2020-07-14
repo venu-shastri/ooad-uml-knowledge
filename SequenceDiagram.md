@@ -59,12 +59,14 @@ specifies a message
 -  Return message
 	- A return message is used to indicate that the message receiver is done processing the message and is returning control over to the message caller
 - Participant creation message
+	- objects can be created in the middle of a sequence. The dropped participant box notation is used when you need to show that the particular participant did not exist until the create call was sent.
 -  Participant destruction message
+	- participants, when no longer needed, can also be deleted from a sequence diagram. This is done by adding an ‘X’ at the end of the lifeline of the said participant
 - Reflexive message
 	- When an object sends a message to itself, it is called a reflexive message.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3MDE5NTExLC0xNzQ1MDQxMDU0LC0xOD
-M2MDQxNjA2LC0xNjI3MTAzMzg2LDE2MDk0MTAyOTMsMTQyMzUy
-MzA1OSwxODE4NjYzMTYsMTEzNjY0NzQ2XX0=
+eyJoaXN0b3J5IjpbLTE5NTI2Njg2OCwtMTc0NTA0MTA1NCwtMT
+gzNjA0MTYwNiwtMTYyNzEwMzM4NiwxNjA5NDEwMjkzLDE0MjM1
+MjMwNTksMTgxODY2MzE2LDExMzY2NDc0Nl19
 -->
