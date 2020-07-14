@@ -52,12 +52,12 @@ specifies a message
 #### Different message types;
 - Synchronous message
 - Asynchronous message
-• Return message
-• Participant creation message
-• Participant destruction message
-• Reflexive message
+-  Return message
+- Participant creation message
+-  Participant destruction message
+- Reflexive message
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTExODk2NjgsLTE2MjcxMDMzODYsMT
+eyJoaXN0b3J5IjpbLTE4MzYwNDE2MDYsLTE2MjcxMDMzODYsMT
 YwOTQxMDI5MywxNDIzNTIzMDU5LDE4MTg2NjMxNiwxMTM2NjQ3
 NDZdfQ==
 -->
