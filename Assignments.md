@@ -83,10 +83,11 @@ The participants are required to identify the different objects from the above p
 - Assignement4
 ![Assignement4](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IdentifyRealtionships4.JPG)
 - Assignment 5
-- 
+![Assignment 5](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/BeverageBuilder.png)
 
-
+- Assignment 6
+![Assignment 6](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/IceCreamFlavor.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODQ0MzI1NCwyOTAwNzI2NjUsMTM5MD
+eyJoaXN0b3J5IjpbLTExMjY3Mzk3NywyOTAwNzI2NjUsMTM5MD
 A2MzU1OCwtMTUyMzM0ODk3NF19
 -->
