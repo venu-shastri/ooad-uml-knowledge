@@ -87,12 +87,12 @@ specifies a message
 
 #### Option Combination Fragment
 > The option fragment is used to indicate a sequence that will only occur under a certain condition, otherwise the sequence won’t occur
-• It models the **“if then” statement
-• It is represented with a rectangular frame where ‘opt’ is placed inside the name box
-• Unlike the alternative fragment, the option fragment is not divided to operands
+• It models the **“if then”** statement
+• It is represented with a rectangular frame where **‘opt’** is placed inside the name box
+• Unlike the alternative fragment, the option fragment is **not divided to operands**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Mjk4NTAzNSwtODI0NDg4MDksLTEzOT
-IyNDcyOTcsLTE3NDUwNDEwNTQsLTE4MzYwNDE2MDYsLTE2Mjcx
-MDMzODYsMTYwOTQxMDI5MywxNDIzNTIzMDU5LDE4MTg2NjMxNi
-wxMTM2NjQ3NDZdfQ==
+eyJoaXN0b3J5IjpbNDMyMDk0MTksLTgyNDQ4ODA5LC0xMzkyMj
+Q3Mjk3LC0xNzQ1MDQxMDU0LC0xODM2MDQxNjA2LC0xNjI3MTAz
+Mzg2LDE2MDk0MTAyOTMsMTQyMzUyMzA1OSwxODE4NjYzMTYsMT
+EzNjY0NzQ2XX0=
 -->
