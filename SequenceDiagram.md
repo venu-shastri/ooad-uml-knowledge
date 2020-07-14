@@ -48,6 +48,8 @@ specifies a message
 - The message can flow in any direction; from left to right, right to left and back to the caller itself
 - The description of the message should go on the arrow
 - Arrow heads may change according to different message types
+- The message arrow comes with a description, which is known as a message signature, on it. The format for this message signature is below. 
+**_message_name (arguments): return_type**
 
 #### Different message types;
 - Synchronous message
@@ -57,7 +59,7 @@ specifies a message
 -  Participant destruction message
 - Reflexive message
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzYwNDE2MDYsLTE2MjcxMDMzODYsMT
-YwOTQxMDI5MywxNDIzNTIzMDU5LDE4MTg2NjMxNiwxMTM2NjQ3
-NDZdfQ==
+eyJoaXN0b3J5IjpbMTgwOTM2NzE5LC0xODM2MDQxNjA2LC0xNj
+I3MTAzMzg2LDE2MDk0MTAyOTMsMTQyMzUyMzA1OSwxODE4NjYz
+MTYsMTEzNjY0NzQ2XX0=
 -->
