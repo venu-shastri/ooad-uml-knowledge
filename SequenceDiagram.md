@@ -76,6 +76,7 @@ specifies a message
 	- Alternative Combination Fragment
 	- Option Combination Fragment
 	- Loop Fragment
+	- Reference Fragment
 #### Alternative-Combination-Fragment
 - It is used when a choice needs to be made between two or more message sequences. 
 - It models the **“if then else”** logic
@@ -102,9 +103,11 @@ specifies a message
 – to test maximum iterations (the loop mustn’t execute more than the number mentioned)
 
 ![Loop](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/New-Loops-Sequence-Diagram-Example-1.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5NDk2OTAwLDExNjIwNzA2OTAsLTgyND
-Q4ODA5LC0xMzkyMjQ3Mjk3LC0xNzQ1MDQxMDU0LC0xODM2MDQx
-NjA2LC0xNjI3MTAzMzg2LDE2MDk0MTAyOTMsMTQyMzUyMzA1OS
-wxODE4NjYzMTYsMTEzNjY0NzQ2XX0=
+eyJoaXN0b3J5IjpbMzc0OTkwMTEwLDkyOTQ5NjkwMCwxMTYyMD
+cwNjkwLC04MjQ0ODgwOSwtMTM5MjI0NzI5NywtMTc0NTA0MTA1
+NCwtMTgzNjA0MTYwNiwtMTYyNzEwMzM4NiwxNjA5NDEwMjkzLD
+E0MjM1MjMwNTksMTgxODY2MzE2LDExMzY2NDc0Nl19
 -->
