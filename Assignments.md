@@ -90,9 +90,12 @@ The participants are required to identify the different objects from the above p
 
 - Assignement 7
 ![Assignement 7](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Double_Dispatch_Problem%20%281%29.png)
--Assignem3n
+- Assignement 8
+![Assignement 8](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Printer_Visitor.png)
 
+### Refactor the design
+![enter image description here](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/MultipleInheritance.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyNDEzODMsMjkwMDcyNjY1LDEzOTAwNj
-M1NTgsLTE1MjMzNDg5NzRdfQ==
+eyJoaXN0b3J5IjpbLTE5ODg2MTIzMjcsMjkwMDcyNjY1LDEzOT
+AwNjM1NTgsLTE1MjMzNDg5NzRdfQ==
 -->
