@@ -92,9 +92,17 @@ specifies a message
 • Unlike the alternative fragment, the option fragment is **not divided to operands**
 
 ![Option](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Example-of-an-option-fragment.png)
+
+#### Loop Fragment
+>It is used to show a **repetitive sequence**
+• It is drawn as a frame and specified by placing ** ‘loop’** in the name box
+• It can be used
+– for the Boolean test
+– to test minimum iterations (the loop must execute not less than the number mentioned)
+– to test maximum iterations (the loop mustn’t execute more than the number mentioned)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDE4Nzc4MzAsLTgyNDQ4ODA5LC0xMz
-kyMjQ3Mjk3LC0xNzQ1MDQxMDU0LC0xODM2MDQxNjA2LC0xNjI3
-MTAzMzg2LDE2MDk0MTAyOTMsMTQyMzUyMzA1OSwxODE4NjYzMT
-YsMTEzNjY0NzQ2XX0=
+eyJoaXN0b3J5IjpbMTA1MDM5MTgxMSwtODI0NDg4MDksLTEzOT
+IyNDcyOTcsLTE3NDUwNDEwNTQsLTE4MzYwNDE2MDYsLTE2Mjcx
+MDMzODYsMTYwOTQxMDI5MywxNDIzNTIzMDU5LDE4MTg2NjMxNi
+wxMTM2NjQ3NDZdfQ==
 -->
