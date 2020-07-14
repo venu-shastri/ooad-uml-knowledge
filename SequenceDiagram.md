@@ -35,7 +35,12 @@ each other in the system
 when the sequence diagram is owned by a use case
 
 ![Lifeline Notation](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Sequence-diagram-Lifeline.png)
+
+**Activation Bars**
+> Activation bar is the box placed on the lifeline. It is used to indicate that an object is active (or instantiated) during an interaction between two objects. The length of the rectangle indicates the duration of the objects staying active.
+
+> In a sequence diagram, an interaction between two objects occurs when one object sends a message to another. The use of the activation bar on the lifelines of the Message Caller (the object that sends the message) and the Message Receiver (the object that receives the message) indicates that both are active/is instantiated during the exchange of the message
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTQxMDI5MywxNDIzNTIzMDU5LDE4MT
-g2NjMxNiwxMTM2NjQ3NDZdfQ==
+eyJoaXN0b3J5IjpbLTE2MjcxMDMzODYsMTYwOTQxMDI5MywxND
+IzNTIzMDU5LDE4MTg2NjMxNiwxMTM2NjQ3NDZdfQ==
 -->
