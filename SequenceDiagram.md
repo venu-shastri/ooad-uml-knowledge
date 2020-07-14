@@ -42,9 +42,22 @@ when the sequence diagram is owned by a use case
 > In a sequence diagram, an interaction between two objects occurs when one object sends a message to another. The use of the activation bar on the lifelines of the Message Caller (the object that sends the message) and the Message Receiver (the object that receives the message) indicates that both are active/is instantiated during the exchange of the message
 ![Activation Bar ](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/ActivationBar.JPG)
 
+**Message Arrows**
+- An arrow from the Message Caller to the Message Receiver
+specifies a message
+- The message can flow in any direction; from left to right, right to left and back to the caller itself
+- The description of the message should go on the arrow
+- Arrow heads may change according to different message types
 
+#### Different message types;
+- Synchronous message
+- Asynchronous message
+• Return message
+• Participant creation message
+• Participant destruction message
+• Reflexive message
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI0ODU2MDUsLTE2MjcxMDMzODYsMT
+eyJoaXN0b3J5IjpbLTEyNTExODk2NjgsLTE2MjcxMDMzODYsMT
 YwOTQxMDI5MywxNDIzNTIzMDU5LDE4MTg2NjMxNiwxMTM2NjQ3
 NDZdfQ==
 -->
