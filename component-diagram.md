@@ -8,6 +8,8 @@ device; or a business unit such as supplier, payroll or shipping**.
 
 ### Component
 #### There are three ways the component symbol can be used.
+
+![Compo](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/component-diagram-1.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQ5OTk0MTldfQ==
+eyJoaXN0b3J5IjpbLTI3NTMwNTEwMSwtMTYwNDk5OTQxOV19
 -->
