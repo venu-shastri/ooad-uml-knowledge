@@ -4,6 +4,8 @@
 >A deployment diagram is a UML diagram type that shows the **`execution architecture`** of a system, including nodes such as hardware or software execution environments, and the middleware connecting them. Deployment diagrams help **`model the hardware topology`** of a system.
 
 ### Deployment Diagram Notations
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDg1MjU5MiwtMTEzNDA2NDkzMF19
+eyJoaXN0b3J5IjpbNTQ1NDgxMjQ2LDEwMzA4NTI1OTIsLTExMz
+QwNjQ5MzBdfQ==
 -->
