@@ -20,6 +20,11 @@ Interfaces in component diagrams show how components are **`wired `** together a
 Port (represented by the small square at the end of a required interface or
 provided interface) is used when the component delegates the interfaces to
 an internal class.
+
+![port](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/component-diagram-3.PNG)
+
+### Dependencies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3OTcxMjkzLC0xNjA0OTk5NDE5XX0=
+eyJoaXN0b3J5IjpbLTk3MTEzNDI2OCwzNTc5NzEyOTMsLTE2MD
+Q5OTk0MTldfQ==
 -->
