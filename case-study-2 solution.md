@@ -11,7 +11,7 @@
 - MapDataModel
 - MapDatavalidator
 - CSVtoXMLConverter
-- XMLDataModel
+- XMlMapDataWriter
 - Errorlogcreator
 - Statisticdatagenerator
 - statisticdataModel
@@ -21,5 +21,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDIxNzg0NF19
+eyJoaXN0b3J5IjpbLTEwNzY4NjI4NjYsMTQ1NDIxNzg0NF19
 -->
