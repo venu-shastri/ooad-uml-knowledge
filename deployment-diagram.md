@@ -6,7 +6,9 @@
 ### Deployment Diagram Notations
 
 ![enter image description here](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Deployment-Diagram-1.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5ODg2NTc1LDEwMzA4NTI1OTIsLTExMz
-QwNjQ5MzBdfQ==
+eyJoaXN0b3J5IjpbLTE4MTgxMjQ4NTMsMjY5ODg2NTc1LDEwMz
+A4NTI1OTIsLTExMzQwNjQ5MzBdfQ==
 -->
