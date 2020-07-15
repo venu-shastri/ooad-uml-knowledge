@@ -27,7 +27,13 @@ an internal class.
 The relationship between two components can be sown  using the ball-and-socket notation (provided interface and required interface), or ca be shown using   a dependency arrow to show the relationship between two components
 
 ![Dependency](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/component-diagram-4.PNG)
+
+
+### Examples
+
+#### Online Shopping Example
+![OnlineShopping ](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/component-diagram-example1.PNG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjQzMzEyOCwzNTc5NzEyOTMsLTE2MD
-Q5OTk0MTldfQ==
+eyJoaXN0b3J5IjpbNzg5NDA5MDg4LC02NjI0MzMxMjgsMzU3OT
+cxMjkzLC0xNjA0OTk5NDE5XX0=
 -->
