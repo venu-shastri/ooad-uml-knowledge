@@ -5,6 +5,9 @@ user interface; or a hardware component such as a circuit, microchip or
 device; or a business unit such as supplier, payroll or shipping**.
 
 ## Component Diagram Symbols
+
+### Component
+#### There are three ways the component symbol can be used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODM5NjU2MDFdfQ==
+eyJoaXN0b3J5IjpbLTE2MDQ5OTk0MTldfQ==
 -->
