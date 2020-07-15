@@ -5,8 +5,28 @@
 - Log Error Line
 - Generate Statistics - Session
 
+### Object Model (Logical View)
+
+- CSVMapDataReader
+
+MapDataModel
+
+MapDatavalidator
+
+CSVtoXMLConverter
+
+XMLDataModel
+
+Errorlogcreator
+
+Statisticdatagenerator
+
+statisticdataModel
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTUwNTk2NThdfQ==
+eyJoaXN0b3J5IjpbLTE2Mzk4MTI1MjFdfQ==
 -->
