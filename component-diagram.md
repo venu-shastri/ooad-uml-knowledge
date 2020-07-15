@@ -24,7 +24,9 @@ an internal class.
 ![port](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/component-diagram-3.PNG)
 
 ### Dependencies
+The relationship between two components can be sown  using the ball-and-socket notation (provided interface and required interface), or ca be shown using   a dependency arrow to show the
+relationship between two components
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTEzNDI2OCwzNTc5NzEyOTMsLTE2MD
+eyJoaXN0b3J5IjpbMTk4MTE2MDE5NCwzNTc5NzEyOTMsLTE2MD
 Q5OTk0MTldfQ==
 -->
