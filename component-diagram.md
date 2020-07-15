@@ -9,7 +9,15 @@ device; or a business unit such as supplier, payroll or shipping**.
 ### Component
 #### There are three ways the component symbol can be used.
 
-![Compo](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/component-diagram-1.JPG)
+![Component](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/component-diagram-1.JPG)
+
+### Provided Interface and the Required Interface
+Interfaces in component diagrams show how components are **`wired `together
+and interact with each other. The assembly connector allows linking the
+component’s required interface (represented with a semi-circle and a solid
+line) with the provided interface (represented with a circle and solid line) of
+another component. This shows that one component is providing the service
+that the other is requiring
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTMwNTEwMSwtMTYwNDk5OTQxOV19
+eyJoaXN0b3J5IjpbNDYzNTg2NDI5LC0xNjA0OTk5NDE5XX0=
 -->
