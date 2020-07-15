@@ -4,6 +4,7 @@
 
 - The main elements that state diagrams depict are **states** and **transitions**. States are captured by rectangles with rounded corners that are labeled with the name of the the state. Transitions are marked with arrows that flow from one state to another, showing how the states change.
 - Each state diagram typically begins with a **dark circle that indicates the initial state** and **ends with a bordered circle that denotes the final state**. Sometimes, the Final State is not used.
+![state-machine](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/State-Machine-Diagram_example.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk0MzcyNTRdfQ==
+eyJoaXN0b3J5IjpbLTg2NDE1MjI5MCwtMTEyOTQzNzI1NF19
 -->
