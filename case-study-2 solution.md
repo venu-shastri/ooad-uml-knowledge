@@ -8,25 +8,18 @@
 ### Object Model (Logical View)
 
 - CSVMapDataReader
-
-MapDataModel
-
-MapDatavalidator
-
-CSVtoXMLConverter
-
-XMLDataModel
-
-Errorlogcreator
-
-Statisticdatagenerator
-
-statisticdataModel
+- MapDataModel
+- MapDatavalidator
+- CSVtoXMLConverter
+- XMLDataModel
+- Errorlogcreator
+- Statisticdatagenerator
+- statisticdataModel
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk4MTI1MjFdfQ==
+eyJoaXN0b3J5IjpbMTQ1NDIxNzg0NF19
 -->
