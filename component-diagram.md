@@ -12,12 +12,9 @@ device; or a business unit such as supplier, payroll or shipping**.
 ![Component](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/component-diagram-1.JPG)
 
 ### Provided Interface and the Required Interface
-Interfaces in component diagrams show how components are **`wired `together
-and interact with each other. The assembly connector allows linking the
-component’s required interface (represented with a semi-circle and a solid
-line) with the provided interface (represented with a circle and solid line) of
+Interfaces in component diagrams show how components are **`wired `** together and **`interact`** with each other. The assembly connector allows linking the component’s **`required interface`** (represented with a **`semi-circle and a solidline)'** with the **`provided interface`** (represented with a circle and solid line) of
 another component. This shows that one component is providing the service
 that the other is requiring
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzNTg2NDI5LC0xNjA0OTk5NDE5XX0=
+eyJoaXN0b3J5IjpbMTI5MjM0OTI2MiwtMTYwNDk5OTQxOV19
 -->
