@@ -7,7 +7,9 @@ A UML activity diagram helps to **`visualize a certain use case at a more detail
 
 ##  Activity Diagram Symbols
 ![Activity Symbols](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Activity-diagram-1.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzMzMzkzOCw3ODE4MzgzOTYsLTE3Mj
-c4NDYzNjYsLTI3Nzc1NTM4Ml19
+eyJoaXN0b3J5IjpbLTE1OTMxODU2NTAsMTQ3MzMzMzkzOCw3OD
+E4MzgzOTYsLTE3Mjc4NDYzNjYsLTI3Nzc1NTM4Ml19
 -->
