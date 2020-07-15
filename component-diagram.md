@@ -25,7 +25,9 @@ an internal class.
 
 ### Dependencies
 The relationship between two components can be sown  using the ball-and-socket notation (provided interface and required interface), or ca be shown using   a dependency arrow to show the relationship between two components
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA5OTM1NTIsMzU3OTcxMjkzLC0xNj
-A0OTk5NDE5XX0=
+eyJoaXN0b3J5IjpbMzAxNTc3OTMyLDM1Nzk3MTI5MywtMTYwND
+k5OTQxOV19
 -->
