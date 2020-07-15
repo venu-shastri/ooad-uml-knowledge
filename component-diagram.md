@@ -13,8 +13,13 @@ device; or a business unit such as supplier, payroll or shipping**.
 
 ### Provided Interface and the Required Interface
 Interfaces in component diagrams show how components are **`wired `** together and **`interact`** with each other. The assembly connector allows linking the component’s **`required interface`** (represented with a  semi-circle and a solid line)with the **`provided interface`** (represented with a circle and solid line) of another component. This shows that one component is providing the service that the other is requiring
+
 ![interface](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/component-diagram-2.JPG)
+
+### Port
+Port (represented by the small square at the end of a required interface or
+provided interface) is used when the component delegates the interfaces to
+an internal class.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQ1ODA2MTcsLTE2MDQ5OTk0MTldfQ
-==
+eyJoaXN0b3J5IjpbMzU3OTcxMjkzLC0xNjA0OTk5NDE5XX0=
 -->
