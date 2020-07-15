@@ -6,10 +6,10 @@ A UML activity diagram helps to **`visualize a certain use case at a more detail
 - They can be used to examine business processes in order to identify its flow and requirements
 
 ##  Activity Diagram Symbols
-|  |  |
+|  |  | 
 |--|--|
 |  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Nzc1NTM4Ml19
+eyJoaXN0b3J5IjpbOTU4OTExNjIyLC0yNzc3NTUzODJdfQ==
 -->
