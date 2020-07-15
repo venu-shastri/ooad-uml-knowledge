@@ -16,12 +16,14 @@
 - Statisticdatagenerator
 - statisticdataModel
 
+### Logical View (Class Diagram)
 
+![enter image description here](https://github.com/venu-shastri/ooad-uml-knowledge/blob/master/images/Case-study-2-class-diagram.PNG)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzYyOTY4OCwtMTM4NTgwNjI2MiwtMT
+eyJoaXN0b3J5IjpbLTc3MzUwMTIwNywtMTM4NTgwNjI2MiwtMT
 A3Njg2Mjg2NiwxNDU0MjE3ODQ0XX0=
 -->
