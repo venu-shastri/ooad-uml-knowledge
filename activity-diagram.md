@@ -8,8 +8,8 @@ A UML activity diagram helps to **`visualize a certain use case at a more detail
 ##  Activity Diagram Symbols
 | Symbol  | Name | Use |
 |--|--|--|
-|  |  |
+|![enter image description here](https://d3n817fwly711g.cloudfront.net/uploads/2018/08/Start.png)  | Start/ Initial Node | Used to represent the starting point or the initial state of an activity|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDE1MjUwNCwtMjc3NzU1MzgyXX0=
+eyJoaXN0b3J5IjpbLTE3Mjc4NDYzNjYsLTI3Nzc1NTM4Ml19
 -->
