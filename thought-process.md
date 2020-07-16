@@ -4,12 +4,16 @@
 - Vision 
 	- Build For Last
 	- Build For Change
-- Paradigm
-	- Object Orientation
+-Requirement Analysis
+-Functional and Non-Functional Requirements
+- Use Case Diagram - Functional Requirements
+	
+ Paradigm
+	- Object Orientation (Analysis - Logical View)
 		- Concepts
 		- 
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODcyNDc2M119
+eyJoaXN0b3J5IjpbNzQ0NjYyMjUzXX0=
 -->
