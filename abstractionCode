@@ -1,0 +1,60 @@
+//interface
+class ISqlLiteConnectionStatusObserver {
+
+	public:
+		void Notify(char* status){}=0;
+}
+
+class Screen : ISqlLiteConnectionStatusObserver {
+	
+	public:
+		void Display(){
+
+		}
+                void Notify(char* status){
+			this->Display();
+		}
+
+}
+
+class SqlLiteConnection{
+		//tightly - coupled
+		Screeen *obj=new Screen();
+		public:
+			void Connect(){
+					//Condition
+					obj->Display();	
+			}
+
+}
+
+
+class SqlLiteConnection {
+		//loosly Coupled
+         	ISqlLiteConnectionStatusObserver *obj;
+		
+		public:
+			void Connect(){
+					//Condition
+					obj->Notify();	
+			}
+		void RegisterForConnectionStatusNotification(ISqlLiteConnectionStatusObserver *obj){
+			set *obj=argument
+		}
+	
+			
+
+}
+
+
+main(){
+
+ISqlLiteConnectionStatusObserver *obj=new Screen();
+
+SqlLiteConnection _connecton;
+
+_connection.RegisterForConnectionStatusNotification(obj);
+_connection.connect(); //Notify-> Display
+
+
+}
