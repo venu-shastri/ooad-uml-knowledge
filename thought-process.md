@@ -13,9 +13,13 @@
 		- Object Orientation 
 			- Concepts
 				- Encapsulation
+					- Define Role and Responsibilities
+					- Principles - SRP
+					- Avoid GOD Class Desgin
+					
 		 
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjAxMjU1Nl19
+eyJoaXN0b3J5IjpbLTIzMDY1NDFdfQ==
 -->
