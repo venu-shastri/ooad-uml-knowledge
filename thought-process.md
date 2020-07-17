@@ -34,6 +34,11 @@
  -  Classification ( Generalization and Specialization )
  - Family of Classes ( Commonality and Variation)
  - ex:-  **`Car is-a Vehicle`** , **`Radar is-a Sensor`** , **`MPCVideo is-a Sensor`**
+ - Inheritance Limitations
+	 - Static Relationship  (Re-Compile)
+	 - Multiple Inheritance  is
+
+
 				
 
 					
@@ -42,5 +47,6 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzczOTk4MCwtMjMwNjU0MV19
+eyJoaXN0b3J5IjpbLTE2NTkzNzgxNTQsMTM2MzczOTk4MCwtMj
+MwNjU0MV19
 -->
