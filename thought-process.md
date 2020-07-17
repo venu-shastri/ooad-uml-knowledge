@@ -17,12 +17,13 @@
 					- Principles - SRP
 					- Avoid GOD Class Desgin
 						- GOD -> Does Everything
-					- Uml Representa
+					- Uml Representation - Class Diagram
+					- Cohesion - High
 					
 					
 		 
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1NjcxMDc1LC0yMzA2NTQxXX0=
+eyJoaXN0b3J5IjpbMTk5ODgxOTgzLC0yMzA2NTQxXX0=
 -->
