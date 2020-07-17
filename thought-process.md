@@ -36,7 +36,10 @@
  - ex:-  **`Car is-a Vehicle`** , **`Radar is-a Sensor`** , **`MPCVideo is-a Sensor`**
  - Inheritance Limitations
 	 - Static Relationship  (Re-Compile)
-	 - Multiple Inheritance  is
+	 - Multiple Inheritance  issues
+		 - redundancy
+		 - Dilemma
+	- Ripple  Effect
 
 
 				
@@ -47,6 +50,6 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTkzNzgxNTQsMTM2MzczOTk4MCwtMj
+eyJoaXN0b3J5IjpbLTEzMDQzMzQxMTYsMTM2MzczOTk4MCwtMj
 MwNjU0MV19
 -->
