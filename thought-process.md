@@ -70,13 +70,13 @@
 ### interface
 - public view of object
 - contains/define/describe contract ( method signatures)
-- c++ - pure virtual methods / function pointer
+- c++ -class - pure virtual methods / struct with function pointer
 - UML - Realization/Generalization Notation
 - Interface cannot be instantiated
 - Given Object Can implement/realizes multiple interface
 - Design issues
 	- Fat Interface ( unnecessary methods)
-		- Decompose Fat interface in t
+		- Decompose Fat interface in to required multiple interfaces  (Interface Segregation Principle)
 				
 
 					
@@ -85,7 +85,7 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzM4NDA2MjcsLTUzNDg1OTQzMSwxMD
-I1OTkwMTI1LDE2ODA5NDgyMDcsMTM2MzczOTk4MCwtMjMwNjU0
-MV19
+eyJoaXN0b3J5IjpbMjAzMTQyNzc5OSwtNTM0ODU5NDMxLDEwMj
+U5OTAxMjUsMTY4MDk0ODIwNywxMzYzNzM5OTgwLC0yMzA2NTQx
+XX0=
 -->
