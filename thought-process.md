@@ -57,6 +57,10 @@
 - Principal :- Dependency Inversion principle
 	- Abstraction (Unnecessary Information Hiding)
 
+### Abstraction
+- Abstraction b/w objects
+- Let Object depend on interface of another object, than implementation
+- An object should know how to communicate
 				
 
 					
@@ -65,6 +69,6 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU3MTQ1NzcsMTAyNTk5MDEyNSwxNj
-gwOTQ4MjA3LDEzNjM3Mzk5ODAsLTIzMDY1NDFdfQ==
+eyJoaXN0b3J5IjpbNDIxMzMyNTE3LDEwMjU5OTAxMjUsMTY4MD
+k0ODIwNywxMzYzNzM5OTgwLC0yMzA2NTQxXX0=
 -->
