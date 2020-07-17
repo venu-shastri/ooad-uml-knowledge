@@ -61,7 +61,8 @@
 - Advantages Uses Relationship
 	- Dynamic 	Relationship
 	- Lazy Instantiation
-	- No R 
+	- No Ripple Effect
+	- Easy to alter Cardinality  (Number of instances participate in given relationship)
 
 ### Abstraction
 - Abstraction b/w objects
@@ -85,6 +86,8 @@
 		- ISP - no client (consumer / implementor) should be forced to depend on methods it does not use
 - name convention :- let interface name begin with - "I-can-do" 
 
+
+
 ### Implementation View
 - Component Based Architecture
 
@@ -97,7 +100,7 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTk2OTUzNDYsLTU0OTQ3NjkwMSw3OD
+eyJoaXN0b3J5IjpbLTE0NTMxOTc0NzgsLTU0OTQ3NjkwMSw3OD
 UwMzc5MzgsLTIwNzQ0ODg4OTcsLTUzNDg1OTQzMSwxMDI1OTkw
 MTI1LDE2ODA5NDgyMDcsMTM2MzczOTk4MCwtMjMwNjU0MV19
 -->
