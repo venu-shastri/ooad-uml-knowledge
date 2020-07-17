@@ -28,7 +28,10 @@
 | Inheritance | Association [Composition , Aggregation] |
 
 ####  Inheritance
-
+ - is-a relationship
+ - Complete Code Reuse
+ - One role assumes another role
+ - ex:-  **` Car is-a Vehicle`"
 				
 
 					
@@ -37,5 +40,5 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTI3NTQyLC0yMzA2NTQxXX0=
+eyJoaXN0b3J5IjpbMTEzMTkwMzI4LC0yMzA2NTQxXX0=
 -->
