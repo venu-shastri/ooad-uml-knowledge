@@ -21,12 +21,17 @@
 					- Cohesion - High
 				 - Re-usability
 					 - Relationship
-				   - 
+					 - Types re usability
+				   
+| Code Reuse | Object reuse  |
+|--|--|
+|  |  |
+
 					
 					
 		 
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0MTk4MzYyLC0yMzA2NTQxXX0=
+eyJoaXN0b3J5IjpbNjE5NDA3MDQ4LC0yMzA2NTQxXX0=
 -->
