@@ -69,7 +69,9 @@
 
 ### interface
 - public view of object
-- contains/define/d
+- contains/define/describe contract ( method signatures)
+- c++ - pure virtual methods / function pointer
+- UML - Realization/Generalization Notation
 				
 
 					
@@ -78,7 +80,7 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDg0OTc4MSwtNTM0ODU5NDMxLDEwMj
+eyJoaXN0b3J5IjpbMTQ4NjY4ODUzMCwtNTM0ODU5NDMxLDEwMj
 U5OTAxMjUsMTY4MDk0ODIwNywxMzYzNzM5OTgwLC0yMzA2NTQx
 XX0=
 -->
