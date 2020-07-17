@@ -33,7 +33,7 @@
  - One role assumes another role
  -  Classification ( Generalization and Specialization )
  - Family of Classes ( Commonality and Variation)
- - ex:-  **`Car is-a Vehicle`** , **`Radar 
+ - ex:-  **`Car is-a Vehicle`** , **`Radar is-a Sensor`** , **`MPCVideo is-a Sensor`**
 				
 
 					
@@ -42,5 +42,5 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODMyNDk2MywtMjMwNjU0MV19
+eyJoaXN0b3J5IjpbMTM2MzczOTk4MCwtMjMwNjU0MV19
 -->
