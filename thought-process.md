@@ -47,6 +47,7 @@
 - ex:-  **`Cluster uses GPS Sensors`** , **`Camera uses Imager`** , **`OS uses Processors`** , **`Radar uses Antenna`**
 - Association 
 	- Associated
+	- Referential Attribute
 - Composition
 	- contains
 - Aggregation
@@ -61,6 +62,6 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzkzMTgzNywxMzYzNzM5OTgwLC0yMz
+eyJoaXN0b3J5IjpbMTY4MDk0ODIwNywxMzYzNzM5OTgwLC0yMz
 A2NTQxXX0=
 -->
