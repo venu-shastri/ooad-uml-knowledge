@@ -44,14 +44,16 @@
 #### Object Reuse
 - uses relationship (has-a)
 - One Object uses Another Object
-- ex:-  **`Cluster uses GPS Sensors`** , **`Camera uses Imager`** , **`OS uses Processors`** , **`Radar uses Antenna`**
+- ex:-  **`Cluster uses/holds GPS Sensors`** , **`Camera uses/Contains Imager`** , **`OS uses/ Processors`** , **`Radar uses Antenna`**
 - Association 
 	- Associated
 	- Referential Attribute
 - Composition
 	- contains
+	- Death Relationship
 - Aggregation
 	- holds
+	- part-of
 
 
 				
@@ -62,6 +64,6 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDk0ODIwNywxMzYzNzM5OTgwLC0yMz
-A2NTQxXX0=
+eyJoaXN0b3J5IjpbLTEzNzE3MzIyMTIsMTY4MDk0ODIwNywxMz
+YzNzM5OTgwLC0yMzA2NTQxXX0=
 -->
