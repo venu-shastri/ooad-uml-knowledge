@@ -100,7 +100,10 @@
 
 #### Process view
 - Activtity Diagram
-	- De
+	- Describe Particular  Uses Case  in detail
+	- Same as Flowchart
+	- Stack Holder ( Architect , Developer - BA , Product Owner)
+	- Flow of information (steps)
 - Timing Diagram
 - Communication Diagram
 - StateDiagram
@@ -117,7 +120,7 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Nzc0NDM5OCwtNTQ5NDc2OTAxLDc4NT
+eyJoaXN0b3J5IjpbMTk1MDMwNDU5OSwtNTQ5NDc2OTAxLDc4NT
 AzNzkzOCwtMjA3NDQ4ODg5NywtNTM0ODU5NDMxLDEwMjU5OTAx
 MjUsMTY4MDk0ODIwNywxMzYzNzM5OTgwLC0yMzA2NTQxXX0=
 -->
