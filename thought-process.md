@@ -56,12 +56,13 @@
 	- part-of
 - Principal :- Dependency Inversion principle
 	- Abstraction (Unnecessary Information Hiding)
+	- Loosely Coupled Solution
 
 ### Abstraction
 - Abstraction b/w objects
 - Let Object depend on interface of another object, than implementation
 - An object should know how to communicate / Contract
-- use Runtime polymorphism /  to abstract 
+- use Runtime polymorphism / function pointer to abstract 
 				
 
 					
@@ -70,6 +71,6 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTA0MTQ5MywxMDI1OTkwMTI1LDE2OD
+eyJoaXN0b3J5IjpbLTUzNDg1OTQzMSwxMDI1OTkwMTI1LDE2OD
 A5NDgyMDcsMTM2MzczOTk4MCwtMjMwNjU0MV19
 -->
