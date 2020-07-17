@@ -15,16 +15,18 @@
 				- Encapsulation
 					- Define Role and Responsibilities
 					- Principles - SRP
-					- Avoid GOD Class Desgin
+					- Avoid GOD Class Design
 						- GOD -> Does Everything
 					- Uml Representation - Class Diagram
 					- Cohesion - High
-				 - Reusability
+				 - Re-usability
+					 - Relationship
+				   - 
 					
 					
 		 
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzM2Mjg4NywtMjMwNjU0MV19
+eyJoaXN0b3J5IjpbNDA0MTk4MzYyLC0yMzA2NTQxXX0=
 -->
