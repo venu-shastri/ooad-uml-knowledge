@@ -54,7 +54,8 @@
 - Aggregation
 	- holds
 	- part-of
-- Principal :- Dependency Invertio
+- Principal :- Dependency Inversion principle
+	- Abstraction (Unnecessary Information Hiding)
 
 				
 
@@ -64,6 +65,6 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTIyNTYxNSwxMDI1OTkwMTI1LDE2OD
-A5NDgyMDcsMTM2MzczOTk4MCwtMjMwNjU0MV19
+eyJoaXN0b3J5IjpbLTE0ODU3MTQ1NzcsMTAyNTk5MDEyNSwxNj
+gwOTQ4MjA3LDEzNjM3Mzk5ODAsLTIzMDY1NDFdfQ==
 -->
