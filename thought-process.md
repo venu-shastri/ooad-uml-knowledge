@@ -78,6 +78,7 @@
 	- Fat Interface ( unnecessary methods)
 		- Decompose Fat interface in to required multiple interfaces  (Interface Segregation Principle)
 		- ISP - no client (consumer / implementor) should be forced to depend on methods it does not use
+- name convention :- let interface name begin with - "I-can-do" 
 				
 
 					
@@ -86,7 +87,7 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ0ODg4OTcsLTUzNDg1OTQzMSwxMD
-I1OTkwMTI1LDE2ODA5NDgyMDcsMTM2MzczOTk4MCwtMjMwNjU0
-MV19
+eyJoaXN0b3J5IjpbNzg1MDM3OTM4LC0yMDc0NDg4ODk3LC01Mz
+Q4NTk0MzEsMTAyNTk5MDEyNSwxNjgwOTQ4MjA3LDEzNjM3Mzk5
+ODAsLTIzMDY1NDFdfQ==
 -->
