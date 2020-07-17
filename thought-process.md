@@ -57,6 +57,7 @@
 - Principal :- Dependency Inversion principle
 	- Abstraction (Unnecessary Information Hiding)
 	- Loosely Coupled Solution
+	- Program For Interface not for implementation
 
 ### Abstraction
 - Abstraction b/w objects
@@ -79,6 +80,8 @@
 		- Decompose Fat interface in to required multiple interfaces  (Interface Segregation Principle)
 		- ISP - no client (consumer / implementor) should be forced to depend on methods it does not use
 - name convention :- let interface name begin with - "I-can-do" 
+
+
 				
 
 					
@@ -87,7 +90,7 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1MDM3OTM4LC0yMDc0NDg4ODk3LC01Mz
-Q4NTk0MzEsMTAyNTk5MDEyNSwxNjgwOTQ4MjA3LDEzNjM3Mzk5
-ODAsLTIzMDY1NDFdfQ==
+eyJoaXN0b3J5IjpbLTU0OTQ3NjkwMSw3ODUwMzc5MzgsLTIwNz
+Q0ODg4OTcsLTUzNDg1OTQzMSwxMDI1OTkwMTI1LDE2ODA5NDgy
+MDcsMTM2MzczOTk4MCwtMjMwNjU0MV19
 -->
