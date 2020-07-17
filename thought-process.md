@@ -105,10 +105,13 @@
 	- Stack Holder ( Architect , Developer - BA , Product Owner)
 	- Flow of information (steps)
 - Timing Diagram
-	- 
+	- Interaction behavior of objects @given time frame
+	- Object state w.r.t time
 - Communication Diagram
-	- Coll
-- StateDiagram
+	- Collaboration 
+	- Object Relationships
+	
+- State Diagram
 	- Models Behavior of Single Object
 
 #### Deployment View
@@ -124,7 +127,7 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTU5MzY2MSwtNTQ5NDc2OTAxLDc4NT
-AzNzkzOCwtMjA3NDQ4ODg5NywtNTM0ODU5NDMxLDEwMjU5OTAx
-MjUsMTY4MDk0ODIwNywxMzYzNzM5OTgwLC0yMzA2NTQxXX0=
+eyJoaXN0b3J5IjpbLTExMzk3ODEyODIsLTU0OTQ3NjkwMSw3OD
+UwMzc5MzgsLTIwNzQ0ODg4OTcsLTUzNDg1OTQzMSwxMDI1OTkw
+MTI1LDE2ODA5NDgyMDcsMTM2MzczOTk4MCwtMjMwNjU0MV19
 -->
