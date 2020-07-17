@@ -81,6 +81,9 @@
 		- ISP - no client (consumer / implementor) should be forced to depend on methods it does not use
 - name convention :- let interface name begin with - "I-can-do" 
 
+### Implementation View
+- Component Based Architecture
+
 
 				
 
@@ -90,7 +93,7 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTQ3NjkwMSw3ODUwMzc5MzgsLTIwNz
-Q0ODg4OTcsLTUzNDg1OTQzMSwxMDI1OTkwMTI1LDE2ODA5NDgy
-MDcsMTM2MzczOTk4MCwtMjMwNjU0MV19
+eyJoaXN0b3J5IjpbLTk5NjUwMjI5LC01NDk0NzY5MDEsNzg1MD
+M3OTM4LC0yMDc0NDg4ODk3LC01MzQ4NTk0MzEsMTAyNTk5MDEy
+NSwxNjgwOTQ4MjA3LDEzNjM3Mzk5ODAsLTIzMDY1NDFdfQ==
 -->
