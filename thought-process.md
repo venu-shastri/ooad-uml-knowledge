@@ -58,6 +58,10 @@
 	- Abstraction (Unnecessary Information Hiding)
 	- Loosely Coupled Solution
 	- Program For Interface not for implementation
+- Advantages Uses Relationship
+	- Dynamic 	Relationship
+	- Lazy Instantiation
+	- No R 
 
 ### Abstraction
 - Abstraction b/w objects
@@ -93,7 +97,7 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjUwMjI5LC01NDk0NzY5MDEsNzg1MD
-M3OTM4LC0yMDc0NDg4ODk3LC01MzQ4NTk0MzEsMTAyNTk5MDEy
-NSwxNjgwOTQ4MjA3LDEzNjM3Mzk5ODAsLTIzMDY1NDFdfQ==
+eyJoaXN0b3J5IjpbLTE2NTk2OTUzNDYsLTU0OTQ3NjkwMSw3OD
+UwMzc5MzgsLTIwNzQ0ODg4OTcsLTUzNDg1OTQzMSwxMDI1OTkw
+MTI1LDE2ODA5NDgyMDcsMTM2MzczOTk4MCwtMjMwNjU0MV19
 -->
