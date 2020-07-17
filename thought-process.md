@@ -105,12 +105,16 @@
 	- Stack Holder ( Architect , Developer - BA , Product Owner)
 	- Flow of information (steps)
 - Timing Diagram
+	- 
 - Communication Diagram
+	- Coll
 - StateDiagram
+	- Models Behavior of Single Object
 
 #### Deployment View
 - Deployment Diagram
-
+	- Models Hardware and Networking topology 
+	
 
 				
 
@@ -120,7 +124,7 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDMwNDU5OSwtNTQ5NDc2OTAxLDc4NT
+eyJoaXN0b3J5IjpbLTI4OTU5MzY2MSwtNTQ5NDc2OTAxLDc4NT
 AzNzkzOCwtMjA3NDQ4ODg5NywtNTM0ODU5NDMxLDEwMjU5OTAx
 MjUsMTY4MDk0ODIwNywxMzYzNzM5OTgwLC0yMzA2NTQxXX0=
 -->
