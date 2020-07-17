@@ -60,7 +60,8 @@
 ### Abstraction
 - Abstraction b/w objects
 - Let Object depend on interface of another object, than implementation
-- An object should know how to communicate
+- An object should know how to communicate / Contract
+- use Runtime polymorphism /  to abstract 
 				
 
 					
@@ -69,6 +70,6 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxMzMyNTE3LDEwMjU5OTAxMjUsMTY4MD
-k0ODIwNywxMzYzNzM5OTgwLC0yMzA2NTQxXX0=
+eyJoaXN0b3J5IjpbLTk1OTA0MTQ5MywxMDI1OTkwMTI1LDE2OD
+A5NDgyMDcsMTM2MzczOTk4MCwtMjMwNjU0MV19
 -->
