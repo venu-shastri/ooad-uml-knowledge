@@ -72,6 +72,11 @@
 - contains/define/describe contract ( method signatures)
 - c++ - pure virtual methods / function pointer
 - UML - Realization/Generalization Notation
+- Interface cannot be instantiated
+- Given Object Can implement/realizes multiple interface
+- Design issues
+	- Fat Interface ( unnecessary methods)
+		- Decompose Fat interface in t
 				
 
 					
@@ -80,7 +85,7 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjY4ODUzMCwtNTM0ODU5NDMxLDEwMj
-U5OTAxMjUsMTY4MDk0ODIwNywxMzYzNzM5OTgwLC0yMzA2NTQx
-XX0=
+eyJoaXN0b3J5IjpbLTEwMzM4NDA2MjcsLTUzNDg1OTQzMSwxMD
+I1OTkwMTI1LDE2ODA5NDgyMDcsMTM2MzczOTk4MCwtMjMwNjU0
+MV19
 -->
