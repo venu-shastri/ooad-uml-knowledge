@@ -16,10 +16,13 @@
 					- Define Role and Responsibilities
 					- Principles - SRP
 					- Avoid GOD Class Desgin
+						- GOD -> Does Everything
+					- Uml Representa
+					
 					
 		 
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDY1NDFdfQ==
+eyJoaXN0b3J5IjpbODI1NjcxMDc1LC0yMzA2NTQxXX0=
 -->
