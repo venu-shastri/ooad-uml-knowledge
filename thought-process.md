@@ -63,6 +63,7 @@
 	- Lazy Instantiation
 	- No Ripple Effect
 	- Easy to alter Cardinality  (Number of instances participate in given relationship)
+### Prefer Composition over Inheritance
 
 ### Abstraction
 - Abstraction b/w objects
@@ -90,6 +91,17 @@
 
 ### Implementation View
 - Component Based Architecture
+- UML- Component Diagram
+
+
+#### Process view
+- Activtity Diagram
+- Timing Diagram
+- Communication Diagram
+- StateDiagram
+
+#### Deployment View
+- 
 
 
 				
@@ -100,7 +112,7 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTMxOTc0NzgsLTU0OTQ3NjkwMSw3OD
-UwMzc5MzgsLTIwNzQ0ODg4OTcsLTUzNDg1OTQzMSwxMDI1OTkw
-MTI1LDE2ODA5NDgyMDcsMTM2MzczOTk4MCwtMjMwNjU0MV19
+eyJoaXN0b3J5IjpbOTk4NDM0MzAsLTU0OTQ3NjkwMSw3ODUwMz
+c5MzgsLTIwNzQ0ODg4OTcsLTUzNDg1OTQzMSwxMDI1OTkwMTI1
+LDE2ODA5NDgyMDcsMTM2MzczOTk4MCwtMjMwNjU0MV19
 -->
