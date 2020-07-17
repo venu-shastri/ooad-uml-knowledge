@@ -31,8 +31,9 @@
  - is-a relationship
  - Complete Code Reuse
  - One role assumes another role
- -  Classifi
- - ex:-  **`Car is-a Vehicle`**
+ -  Classification ( Generalization and Specialization )
+ - Family of Classes ( Commonality and Variation)
+ - ex:-  **`Car is-a Vehicle`** , **`Radar 
 				
 
 					
@@ -41,5 +42,5 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE2MzA2MywtMjMwNjU0MV19
+eyJoaXN0b3J5IjpbMTUyODMyNDk2MywtMjMwNjU0MV19
 -->
