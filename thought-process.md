@@ -117,6 +117,8 @@
 #### Deployment View
 - Deployment Diagram
 	- Models Hardware and Networking topology 
+
+#### 4+1 View Architetcure
 	
 
 				
@@ -127,7 +129,7 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzk3ODEyODIsLTU0OTQ3NjkwMSw3OD
-UwMzc5MzgsLTIwNzQ0ODg4OTcsLTUzNDg1OTQzMSwxMDI1OTkw
-MTI1LDE2ODA5NDgyMDcsMTM2MzczOTk4MCwtMjMwNjU0MV19
+eyJoaXN0b3J5IjpbLTg2NTcxNDEyOCwtNTQ5NDc2OTAxLDc4NT
+AzNzkzOCwtMjA3NDQ4ODg5NywtNTM0ODU5NDMxLDEwMjU5OTAx
+MjUsMTY4MDk0ODIwNywxMzYzNzM5OTgwLC0yMzA2NTQxXX0=
 -->
