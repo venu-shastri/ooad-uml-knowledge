@@ -63,6 +63,13 @@
 - Let Object depend on interface of another object, than implementation
 - An object should know how to communicate / Contract
 - use Runtime polymorphism / function pointer to abstract 
+- steps
+	- identify Low Level module and Extract interface 
+	- Let High Level Module Depends on interface of Low Level Module
+
+### interface
+- public view of object
+- contains/define/d
 				
 
 					
@@ -71,6 +78,7 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDg1OTQzMSwxMDI1OTkwMTI1LDE2OD
-A5NDgyMDcsMTM2MzczOTk4MCwtMjMwNjU0MV19
+eyJoaXN0b3J5IjpbMTgyMDg0OTc4MSwtNTM0ODU5NDMxLDEwMj
+U5OTAxMjUsMTY4MDk0ODIwNywxMzYzNzM5OTgwLC0yMzA2NTQx
+XX0=
 -->
