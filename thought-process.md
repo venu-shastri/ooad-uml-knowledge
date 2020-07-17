@@ -36,10 +36,15 @@
  - ex:-  **`Car is-a Vehicle`** , **`Radar is-a Sensor`** , **`MPCVideo is-a Sensor`**
  - Inheritance Limitations
 	 - Static Relationship  (Re-Compile)
-	 - Multiple Inheritance  issues
+	 - Multiple Inheritance  issues (Diamond Problem)
 		 - redundancy
 		 - Dilemma
 	- Ripple  Effect
+	
+#### Object Reuse
+- uses relationship (has-a)
+- One Object uses Another Object
+- ex:- 
 
 
 				
@@ -50,6 +55,6 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQzMzQxMTYsMTM2MzczOTk4MCwtMj
-MwNjU0MV19
+eyJoaXN0b3J5IjpbMTkxMzQwMDUzMCwxMzYzNzM5OTgwLC0yMz
+A2NTQxXX0=
 -->
