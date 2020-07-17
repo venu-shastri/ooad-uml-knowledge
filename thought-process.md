@@ -21,11 +21,15 @@
 					- Cohesion - High
 				 - Re-usability
 					 - Relationship
-					 - Types re usability
+					 - Types re-usability
 				   
 | Code Reuse | Object reuse  |
 |--|--|
 | Inheritance | Association [Composition , Aggregation] |
+
+####  Inheritance
+
+				
 
 					
 					
@@ -33,5 +37,5 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDczMDMwOSwtMjMwNjU0MV19
+eyJoaXN0b3J5IjpbLTM1OTI3NTQyLC0yMzA2NTQxXX0=
 -->
