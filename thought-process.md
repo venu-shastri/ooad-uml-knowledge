@@ -25,7 +25,7 @@
 				   
 | Code Reuse | Object reuse  |
 |--|--|
-|  |  |
+| Inheritance | Association [Composition , Aggregation] |
 
 					
 					
@@ -33,5 +33,5 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5NDA3MDQ4LC0yMzA2NTQxXX0=
+eyJoaXN0b3J5IjpbMTY1NDczMDMwOSwtMjMwNjU0MV19
 -->
