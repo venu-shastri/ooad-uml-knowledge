@@ -77,7 +77,7 @@
 - Design issues
 	- Fat Interface ( unnecessary methods)
 		- Decompose Fat interface in to required multiple interfaces  (Interface Segregation Principle)
-		- ISP - dont  ever force clie
+		- ISP - no client (consumer / implementor) should be forced to depend on methods it does not use
 				
 
 					
@@ -86,7 +86,7 @@
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODEyNzk4MSwtNTM0ODU5NDMxLDEwMj
-U5OTAxMjUsMTY4MDk0ODIwNywxMzYzNzM5OTgwLC0yMzA2NTQx
-XX0=
+eyJoaXN0b3J5IjpbLTIwNzQ0ODg4OTcsLTUzNDg1OTQzMSwxMD
+I1OTkwMTI1LDE2ODA5NDgyMDcsMTM2MzczOTk4MCwtMjMwNjU0
+MV19
 -->
