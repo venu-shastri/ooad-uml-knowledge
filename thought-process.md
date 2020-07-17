@@ -19,11 +19,12 @@
 						- GOD -> Does Everything
 					- Uml Representation - Class Diagram
 					- Cohesion - High
+				 - Reusability
 					
 					
 		 
 		  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODgxOTgzLC0yMzA2NTQxXX0=
+eyJoaXN0b3J5IjpbMjA2NzM2Mjg4NywtMjMwNjU0MV19
 -->
